@@ -17,4 +17,4 @@ This excel sheet contains the fraudulent apps that are not flagged by VirusTotal
 The txt file shows the app md5 in the AdFraudBench.
 
 ## AdViewBench ##
-The AdViewBench folder includes 4,403 states generated from 500 apps.
+The AdViewBench folder includes 4,403 states generated from 500 apps. Since UTG files for 500 apps are too large, we are considering what form to upload these files.
