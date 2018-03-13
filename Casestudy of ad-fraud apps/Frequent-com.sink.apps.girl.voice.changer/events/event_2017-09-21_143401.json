@@ -1,0 +1,48 @@
+{
+  "stop_state": "0220a3741739221ab4587b36dd660ac1", 
+  "event_str": "TouchEvent(view=e2af9c96801779ee1a7f3388b4fb37e2)", 
+  "tag": "2017-09-21_143401", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "390*393", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 25, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "e2af9c96801779ee1a7f3388b4fb37e2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          345, 
+          687
+        ], 
+        [
+          735, 
+          1080
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "0220a3741739221ab4587b36dd660ac1"
+}

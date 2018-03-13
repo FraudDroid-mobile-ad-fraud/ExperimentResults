@@ -1,0 +1,48 @@
+{
+  "stop_state": "ca7f95180761ca79eff074d5d9d2e688", 
+  "event_str": "TouchEvent(view=08ab89badd6951297ed31a7851a99f63)", 
+  "tag": "2017-09-21_142926", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.sink.apps.girl.voice.changer:id/btnshare", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "237*237", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.sink.apps.girl.voice.changer:id/btnshare", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "08ab89badd6951297ed31a7851a99f63", 
+      "enabled": true, 
+      "bounds": [
+        [
+          169, 
+          1299
+        ], 
+        [
+          406, 
+          1536
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.sink.apps.girl.voice.changer:id/btnshare[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "f79168da93b4490ff82e26f084a02eff"
+}

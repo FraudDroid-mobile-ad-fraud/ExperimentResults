@@ -1,0 +1,10 @@
+{
+  "stop_state": "cb1da228e582e6224140ededd9ea5c33", 
+  "event_str": "IntentEvent(intent='am start com.HomeCleaningGames/com.HomeCleaningGames.MainActivity')", 
+  "tag": "2017-09-24_232718", 
+  "event": {
+    "intent": "am start com.HomeCleaningGames/com.HomeCleaningGames.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "46e87f846daee0231d075ca562c10e87"
+}

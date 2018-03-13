@@ -1,0 +1,46 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        43aec5d com.HouseBuildingGames/.MainActivity
+
+Key Set Manager:
+  [com.HouseBuildingGames]
+      Signing KeySets: 522
+
+Packages:
+  Package [com.HouseBuildingGames] (e0929d2):
+    userId=10522
+    pkg=Package{f10faa3 com.HouseBuildingGames}
+    codePath=/data/app/com.HouseBuildingGames-1
+    resourcePath=/data/app/com.HouseBuildingGames-1
+    legacyNativeLibraryDir=/data/app/com.HouseBuildingGames-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=2 targetSdk=16
+    versionName=2.0
+    splits=[base]
+    applicationInfo=ApplicationInfo{3aa91a0 com.HouseBuildingGames}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/user/0/com.HouseBuildingGames
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-09-24 21:05:21
+    firstInstallTime=2017-09-24 21:05:24
+    lastUpdateTime=2017-09-24 21:05:24
+    signatures=PackageSignatures{9bef159 [7ac111e]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.READ_EXTERNAL_STORAGE
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.READ_EXTERNAL_STORAGE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WRITE_EXTERNAL_STORAGE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+    User 0:  installed=true hidden=false stopped=true notLaunched=true enabled=0
+      gids=[3003]
+      runtime permissions:

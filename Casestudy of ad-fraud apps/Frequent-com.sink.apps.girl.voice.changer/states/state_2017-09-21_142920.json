@@ -1,0 +1,441 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1
+      ], 
+      "size": "1080*1776", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "3e3da2b22112ebc02d36479fe9f4f22a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*1776", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "69b000d5bb24971b006151a89636e4d5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*1776", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "0b1499311e374d8ca07bf162bab44403", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4, 
+        5, 
+        9
+      ], 
+      "size": "1080*1776", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "fc694560fc97ffc415388738f6493a9c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.sink.apps.girl.voice.changer:id/textView1", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*165", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.sink.apps.girl.voice.changer:id/textView1", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "dc588d62f240b4fd03dab4932f4bf04d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          165
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.sink.apps.girl.voice.changer:id/textView1[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.sink.apps.girl.voice.changer:id/listView_play", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1080*1446", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]com.sink.apps.girl.voice.changer:id/listView_play", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.ListView", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "aa1595958fa91bd6504867bde8665107", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          180
+        ], 
+        [
+          1080, 
+          1626
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]com.sink.apps.girl.voice.changer:id/listView_play[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7
+      ], 
+      "size": "1080*171", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "f11f78db9519b7b62e86f966586f5812", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          180
+        ], 
+        [
+          1080, 
+          351
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8
+      ], 
+      "size": "1080*171", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "81388cf9c2bc82449b2591ffb995e52b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          180
+        ], 
+        [
+          1080, 
+          351
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.sink.apps.girl.voice.changer:id/textView_name", 
+      "text": "myrecording2.pcm", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1020*81", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.sink.apps.girl.voice.changer:id/textView_name", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "fe93b341eea37eebf77d8c1726525cf1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          30, 
+          240
+        ], 
+        [
+          1050, 
+          321
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.sink.apps.girl.voice.changer:id/textView_name[text]myrecording2.pcm[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.sink.apps.girl.voice.changer:id/adView", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*150", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]com.sink.apps.girl.voice.changer:id/adView", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "13b613cff75c30d8f7015a8ea7812a38", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1626
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]com.sink.apps.girl.voice.changer:id/adView[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "c4b497ffb3612daf0fa827f27c263e6f", 
+  "activity_stack": [
+    "com.sink.apps.girl.voice.changer/.ShowSaveActivity", 
+    "com.sink.apps.girl.voice.changer/.MainActivity"
+  ], 
+  "background_services": [
+    "com.android.bluetooth/.hid.HidService", 
+    "com.qihoo.appstore/.AppStoreNotificationListenerService", 
+    "com.google.android.backuptransport/com.google.android.backup.BackupTransportService", 
+    "com.android.phone/.BluetoothPhoneService", 
+    "com.google.android.tts/.service.GoogleTTSService", 
+    "com.google.android.gms/com.google.android.location.fused.NlpLocationReceiverService", 
+    "com.android.bluetooth/.btservice.AdapterService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService", 
+    "com.google.android.gms/.gcm.GcmService", 
+    "com.google.android.gms/.auth.be.GoogleAccountDataService", 
+    "com.android.bluetooth/.gatt.GattService", 
+    "com.android.bluetooth/.hdp.HealthService", 
+    "com.android.keyguard/.KeyguardService", 
+    "com.qihoo.appstore/com.qihoo.permmgr.PermService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.android.bluetooth/.pbap.BluetoothPbapService", 
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService", 
+    "com.android.bluetooth/.a2dp.A2dpService", 
+    "com.google.android.googlequicksearchbox/com.google.android.search.core.service.SearchService", 
+    "com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService", 
+    "com.android.systemui/.SystemUIService", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.google.android.gms/com.google.android.location.reporting.service.DispatchingService", 
+    "com.qihoo.appstore/com.morgoo.droidplugin.PluginManagerService", 
+    "com.google.android.gms/.auth.GetToken", 
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService", 
+    "com.qihoo.appstore/.service.CommonDaemonService", 
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService", 
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService", 
+    "com.android.providers.media/.MtpService", 
+    "com.android.bluetooth/.hfp.HeadsetService", 
+    "android/com.android.internal.backup.LocalTransportService", 
+    "com.android.bluetooth/.map.BluetoothMapService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "com.google.android.talk/com.google.android.videochat.VideoChatService", 
+    "com.qihoo.appstore/com.qihoo.core.CoreService", 
+    "com.android.bluetooth/.opp.BluetoothOppService", 
+    "com.android.bluetooth/.pan.PanService"
+  ], 
+  "state_str": "b0b489bf747ae54c537c31f0a2d24362", 
+  "tag": "2017-09-21_142920", 
+  "foreground_activity": "com.sink.apps.girl.voice.changer/.ShowSaveActivity"
+}

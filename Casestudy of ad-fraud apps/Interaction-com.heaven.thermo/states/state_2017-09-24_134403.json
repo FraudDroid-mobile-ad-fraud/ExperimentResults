@@ -1,0 +1,469 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1
+      ], 
+      "size": "511*345", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "86d27deac0929b5d2d070d08208493ff", 
+      "enabled": true, 
+      "bounds": [
+        [
+          284, 
+          823
+        ], 
+        [
+          795, 
+          1168
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "511*345", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "a1b1145173109a0484818476ee3a744f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          284, 
+          823
+        ], 
+        [
+          795, 
+          1168
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "511*345", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "34d70f3ac772176fa388c44ea266ffe7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          284, 
+          823
+        ], 
+        [
+          795, 
+          1168
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/parentPanel", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4
+      ], 
+      "size": "511*345", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "68d9e3848f609a06c356641db4de61c5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          284, 
+          823
+        ], 
+        [
+          795, 
+          1168
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/parentPanel[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/customPanel", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5
+      ], 
+      "size": "499*309", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/customPanel", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "d35852f8441436a7ef22310e77000bc0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          293, 
+          850
+        ], 
+        [
+          792, 
+          1159
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/customPanel[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/custom", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "423*234", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/custom", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "7114bc101e245f720c3a08b5fb37a402", 
+      "enabled": true, 
+      "bounds": [
+        [
+          331, 
+          880
+        ], 
+        [
+          754, 
+          1114
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/custom[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7
+      ], 
+      "size": "423*204", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "7a1cc1d17969c2778bdb50526219be7b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          331, 
+          895
+        ], 
+        [
+          754, 
+          1099
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/body", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8, 
+        9
+      ], 
+      "size": "423*204", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/body", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "84350d992cc1f669edee4575d27ddf4b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          331, 
+          895
+        ], 
+        [
+          754, 
+          1099
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/body[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/progress", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "144*144", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ProgressBar[resource_id]android:id/progress", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ProgressBar", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "8b0b84bd1b3345d1c254f09a67991239", 
+      "enabled": true, 
+      "bounds": [
+        [
+          355, 
+          925
+        ], 
+        [
+          499, 
+          1069
+        ]
+      ], 
+      "signature": "[class]android.widget.ProgressBar[resource_id]android:id/progress[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "Loading....", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "195*57", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "bac4c326597235d4288b15967437fea2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          535, 
+          968
+        ], 
+        [
+          730, 
+          1025
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]Loading....[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "d2622381e1a1df035190cb66a0514666", 
+  "activity_stack": [
+    "com.heaven.thermo/com.startapp.android.publish.AppWallActivity"
+  ], 
+  "background_services": [
+    "com.android.bluetooth/.hid.HidService", 
+    "com.android.engineeringmode/.nvbackup.NVBackupStatusService", 
+    "org.codeaurora.ims/.ImsService", 
+    "com.android.contacts/com.oneplus.contacts.OPContactsPersistService", 
+    "com.qihoo.appstore/.floatwin.FloatWindowService", 
+    "com.qihoo.appstore/.AppStoreNotificationListenerService", 
+    "com.qualcomm.location/.LocationService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.qihoo.appstore/com.stub.plugin.Stub02", 
+    "com.qualcomm.location/.izat.IzatService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.oneplus.permissionutil/.MessengerService", 
+    "com.android.mms/.OPMmsPersistService", 
+    "com.tencent.tim/com.tencent.mobileqq.contactsync.syncadapter.SyncService", 
+    "com.qualcomm.qti.tetherservice/.TetherService", 
+    "com.oneplus.simcontacts/.autoimport.SimContactsService", 
+    "com.sohu.inputmethod.sogou/com.sogou.androidtool.support.SupportService", 
+    "com.dsi.ant.server/.AntService", 
+    "com.qualcomm.location/.izatserviceprovider.service.UnifiedLocationService", 
+    "com.oneplus.security/.SecureService", 
+    "com.android.browser/com.tencent.mtt.browser.push.service.PushRemoteService", 
+    "com.oneplus.opbugreport/.OPReportService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.android.bluetooth/.pbap.BluetoothPbapService", 
+    "net.oneplus.odm/.insight.OneplusAnalyticsJobService", 
+    "com.heaven.thermo/com.vungle.publisher.VungleService", 
+    "com.oneplus.opbackup/.service.BackupService", 
+    "org.codeaurora.bluetooth/.dun.BluetoothDunService", 
+    "com.oneplus.oplocationservice/.OPLocationService", 
+    "com.android.bluetooth/.a2dp.A2dpService", 
+    "com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService", 
+    "com.qti.service.colorservice/.ColorServiceApp", 
+    "com.sohu.inputmethod.sogou/sogou.mobile.explorer.hotwords.entrance.HotwordsExtendEntranceService", 
+    "com.amap.android.ams/.service.HwActivityService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.android.browser/com.tencent.mtt.BrowserService", 
+    "com.android.systemui/.SystemUIService", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.amap.android.ams/.service.HwGeofenceService", 
+    "com.android.server.telecom/.oneplus.OPTelecomService", 
+    "com.sohu.inputmethod.sogou/com.sogou.udp.push.PushService", 
+    "com.qualcomm.location/.LBSSystemMonitorService", 
+    "com.baidu.input_yijia/com.baidu.input.switchguide.GuideService", 
+    "net.oneplus.odm/.DeviceManagerService", 
+    "com.qihoo.appstore/com.morgoo.droidplugin.PluginManagerService", 
+    "com.amap.android.ams/.geocode.GeocodeService", 
+    "com.svox.pico/.PicoService", 
+    "com.android.server.telecom/.components.BluetoothPhoneService", 
+    "com.sohu.inputmethod.sogou/com.sogou.udp.push.SGPushMessageService", 
+    "com.qualcomm.location/.izatserviceprovider.service.NetworkLocationService", 
+    "com.qti.dpmserviceapp/.DpmServiceApp", 
+    "com.oneplus.security/.firewall.NetworkRestrictService", 
+    "com.qihoo.appstore/.service.CommonDaemonService", 
+    "com.android.stk/.StkAppService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.android.providers.media/.MtpService", 
+    "com.android.bluetooth/.hfp.HeadsetService", 
+    "com.qti.qualcomm.datastatusnotification/.DataStatusNotificationService", 
+    "com.amap.android.ams/.network.NetworkLocationService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.amap.android.ams/.service.HwFusedService", 
+    "com.oneplus.permissionutil/.ControlService", 
+    "com.android.bluetooth/.map.BluetoothMapService", 
+    "com.oneplus.card/.service.OnePlusCardReminder", 
+    "com.android.phone/.TelephonyDebugService", 
+    "se.dirac.acs/.AudioControlService", 
+    "com.qihoo.appstore/com.qihoo.core.CoreService", 
+    "com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.status.SogouStatusService", 
+    "com.android.bluetooth/.pan.PanService"
+  ], 
+  "state_str": "1b4a8c494f757a104ad3993027639c1e", 
+  "tag": "2017-09-24_134403", 
+  "foreground_activity": "com.heaven.thermo/com.startapp.android.publish.AppWallActivity"
+}

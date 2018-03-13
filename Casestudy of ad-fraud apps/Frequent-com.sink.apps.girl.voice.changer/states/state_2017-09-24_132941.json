@@ -1,0 +1,1932 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "768153e2e810e02227475f829381c35d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "671c3389cf4909a3bec891c8455c04fb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "ae6d45a781d038aa5b0db4a445f94b4f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4
+      ], 
+      "size": "1080*1848", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "0ffc1ca64026561a6746a650077c1a6c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/app_search_layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5, 
+        32
+      ], 
+      "size": "1080*1848", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/app_search_layout", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "ed05b9efdfa1c559c1578a320227b98e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/app_search_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/search_page", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6, 
+        7, 
+        13, 
+        14
+      ], 
+      "size": "1080*1848", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/search_page", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "3cddbf03f39f0abaaede3c54d3bc82b4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/search_page[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/empty_view", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*156", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]com.qihoo.appstore:id/empty_view", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "8b68cd2034dc1f70761acfff0decc25f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          228
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]com.qihoo.appstore:id/empty_view[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/sliding_tabs", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8
+      ], 
+      "size": "1080*120", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.HorizontalScrollView[resource_id]com.qihoo.appstore:id/sliding_tabs", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.HorizontalScrollView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "5958c612c869bc2b4eb77437bf82d9dc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          208
+        ], 
+        [
+          1080, 
+          328
+        ]
+      ], 
+      "signature": "[class]android.widget.HorizontalScrollView[resource_id]com.qihoo.appstore:id/sliding_tabs[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9, 
+        10, 
+        11, 
+        12
+      ], 
+      "size": "1080*120", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "a2df0ba4d851c390cd15fc6a057e588a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          208
+        ], 
+        [
+          1080, 
+          328
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u8f6f\u4ef6/\u6e38\u620f", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*120", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "1a1eff4d2740210176561fe9cc9f7e4a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          208
+        ], 
+        [
+          270, 
+          328
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u8f6f\u4ef6/\u6e38\u620f[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u89c6\u9891", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*120", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "7b8a00027fb8025f5212cd46eea94511", 
+      "enabled": true, 
+      "bounds": [
+        [
+          270, 
+          208
+        ], 
+        [
+          540, 
+          328
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u89c6\u9891[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u7535\u5b50\u4e66", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*120", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "d05cb13fe352de3b9d650ff7f50301dc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          208
+        ], 
+        [
+          810, 
+          328
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u7535\u5b50\u4e66[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "\u5185\u5bb9", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*120", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "c264d5fe661402d719d18b22b9c4b094", 
+      "enabled": true, 
+      "bounds": [
+        [
+          810, 
+          208
+        ], 
+        [
+          1080, 
+          328
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u5185\u5bb9[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*120", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "df766ea071815e75872434a0975ce483", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          208
+        ], 
+        [
+          1080, 
+          328
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        15, 
+        31
+      ], 
+      "size": "1080*1593", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/content", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "381792e549d163f52b17791238a2cc06", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/view_page", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        16, 
+        24, 
+        26, 
+        28
+      ], 
+      "size": "1080*1593", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.support.v4.view.ViewPager[resource_id]com.qihoo.appstore:id/view_page", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.support.v4.view.ViewPager", 
+      "scrollable": true, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "1c85d2b9c2fe2d031c62ea8f77928f7e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.support.v4.view.ViewPager[resource_id]com.qihoo.appstore:id/view_page[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        17, 
+        23
+      ], 
+      "size": "1080*1593", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "190185a5d9b86e3884f003629565c420", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/refresh_layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        18
+      ], 
+      "size": "1080*1593", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.qihoo.appstore:id/refresh_layout", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "ff8db119e3066ead70752fd72bf0ba94", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.qihoo.appstore:id/refresh_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/RefreshLinear_layout", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        19
+      ], 
+      "size": "1080*1593", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/RefreshLinear_layout", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "a9c0d89d5d3869f282c31847f397b469", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/RefreshLinear_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/common_loading_content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        20, 
+        21, 
+        22
+      ], 
+      "size": "1080*1593", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/common_loading_content", 
+      "is_password": false, 
+      "parent": 18, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "ff9089f4fbd708911114e1eececfb3b3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/common_loading_content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/loading", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "360*240", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.qihoo.appstore:id/loading", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "f8f96cd6024e29a9c900d6d9122a0439", 
+      "enabled": true, 
+      "bounds": [
+        [
+          360, 
+          882
+        ], 
+        [
+          720, 
+          1122
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.qihoo.appstore:id/loading[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/mid_line", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*3", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]com.qihoo.appstore:id/mid_line", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "44bf90d7141f42e9ed2b90670e30bc94", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1122
+        ], 
+        [
+          1080, 
+          1125
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]com.qihoo.appstore:id/mid_line[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/download_tip", 
+      "text": "\u52aa\u529b\u52a0\u8f7d\u4e2d\u2026", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*103", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.qihoo.appstore:id/download_tip", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "610cfe2539d84977436be2d3cff043c3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1125
+        ], 
+        [
+          1080, 
+          1228
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.qihoo.appstore:id/download_tip[text]\u52aa\u529b\u52a0\u8f7d\u4e2d\u2026[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/search_result_app_root", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*1593", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/search_result_app_root", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "6cfc6e64de2b9831830d268f0dd96b16", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/search_result_app_root[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        25
+      ], 
+      "size": "0*1593", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "f8eb6f479b32463f12aceca628ae982e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1080, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/refresh_layout", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*1593", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.qihoo.appstore:id/refresh_layout", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "2fa2cf34192e78495cfc43aec440b867", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1080, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.qihoo.appstore:id/refresh_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        27
+      ], 
+      "size": "-1080*1593", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "f8eb6f479b32463f12aceca628ae982e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          2160, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/refresh_layout", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-1080*1593", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.qihoo.appstore:id/refresh_layout", 
+      "is_password": false, 
+      "parent": 26, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "2fa2cf34192e78495cfc43aec440b867", 
+      "enabled": true, 
+      "bounds": [
+        [
+          2160, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.qihoo.appstore:id/refresh_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        29, 
+        30
+      ], 
+      "size": "-2160*1593", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "190185a5d9b86e3884f003629565c420", 
+      "enabled": true, 
+      "bounds": [
+        [
+          3240, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/refresh_layout", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-2160*1593", 
+      "checked": false, 
+      "temp_id": 29, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.qihoo.appstore:id/refresh_layout", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "2fa2cf34192e78495cfc43aec440b867", 
+      "enabled": true, 
+      "bounds": [
+        [
+          3240, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.qihoo.appstore:id/refresh_layout[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/search_result_app_root", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-2160*1593", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/search_result_app_root", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "6cfc6e64de2b9831830d268f0dd96b16", 
+      "enabled": true, 
+      "bounds": [
+        [
+          3240, 
+          327
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/search_result_app_root[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/sliding_tabs_shadow_line", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*1", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]com.qihoo.appstore:id/sliding_tabs_shadow_line", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "e55bb93558b354b49c3cc6ab662d1348", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          327
+        ], 
+        [
+          1080, 
+          328
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]com.qihoo.appstore:id/sliding_tabs_shadow_line[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/toolbarContainer", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        33, 
+        34
+      ], 
+      "size": "1080*174", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/toolbarContainer", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "3fe3a27baad367102e14a459f9997f8d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          246
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/toolbarContainer[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/status_bar", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*0", 
+      "checked": false, 
+      "temp_id": 33, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]com.qihoo.appstore:id/status_bar", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "f4052a6dbcd9b2c8fbc57902bee92624", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          72
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]com.qihoo.appstore:id/status_bar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/toolbar", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        35
+      ], 
+      "size": "1080*174", 
+      "checked": false, 
+      "temp_id": 34, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.qihoo.appstore:id/toolbar", 
+      "is_password": false, 
+      "parent": 32, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "16ab5258cec39dcd7152fd6d37d15555", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          246
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.qihoo.appstore:id/toolbar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        36, 
+        37, 
+        38, 
+        41, 
+        44
+      ], 
+      "size": "1080*156", 
+      "checked": false, 
+      "temp_id": 35, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 34, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "633de5dd412d6bd629122744d043c8c9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          228
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/common_title_alpha_view", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*156", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]com.qihoo.appstore:id/common_title_alpha_view", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "2771bd348ddf41b15148be79c4ba853b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          228
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]com.qihoo.appstore:id/common_title_alpha_view[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/left_area", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "168*156", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/left_area", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "db395858cbfa8c6cbc03767cef9cc571", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          168, 
+          228
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/left_area[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/btn_left_container", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        39, 
+        40
+      ], 
+      "size": "96*96", 
+      "checked": false, 
+      "temp_id": 38, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/btn_left_container", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "b47b032095567d8ebf40baf93c0311d9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          39, 
+          102
+        ], 
+        [
+          135, 
+          198
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/btn_left_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/btn_left", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "96*96", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.qihoo.appstore:id/btn_left", 
+      "is_password": false, 
+      "parent": 38, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "a662a0ec6e1801a2aef9c19e1d5ee570", 
+      "enabled": true, 
+      "bounds": [
+        [
+          39, 
+          102
+        ], 
+        [
+          135, 
+          198
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.qihoo.appstore:id/btn_left[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/btn_left_reverse", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "96*96", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.qihoo.appstore:id/btn_left_reverse", 
+      "is_password": false, 
+      "parent": 38, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "74b4efa994d9ea981453e9fa6b735fe8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          39, 
+          102
+        ], 
+        [
+          135, 
+          198
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.qihoo.appstore:id/btn_left_reverse[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/search_edit_parent", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        42, 
+        43
+      ], 
+      "size": "744*96", 
+      "checked": false, 
+      "temp_id": 41, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/search_edit_parent", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "8580a2bc85b8f0a8633514a000d33436", 
+      "enabled": true, 
+      "bounds": [
+        [
+          168, 
+          102
+        ], 
+        [
+          912, 
+          198
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/search_edit_parent[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/search_edit", 
+      "text": "Sink Apps", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "564*66", 
+      "checked": false, 
+      "temp_id": 42, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.qihoo.appstore:id/search_edit", 
+      "is_password": false, 
+      "parent": 41, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": true, 
+      "view_str": "9c0b410d8b24ad3e130634e707879c09", 
+      "enabled": true, 
+      "bounds": [
+        [
+          213, 
+          117
+        ], 
+        [
+          777, 
+          183
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.qihoo.appstore:id/search_edit[text]Sink Apps[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/search_clear", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "90*66", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.qihoo.appstore:id/search_clear", 
+      "is_password": false, 
+      "parent": 41, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "bd1f2e7c1bc52eb832556ac4a66d0085", 
+      "enabled": true, 
+      "bounds": [
+        [
+          807, 
+          117
+        ], 
+        [
+          897, 
+          183
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.qihoo.appstore:id/search_clear[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/right_view_container", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        45
+      ], 
+      "size": "96*96", 
+      "checked": false, 
+      "temp_id": 44, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/right_view_container", 
+      "is_password": false, 
+      "parent": 35, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "d06196a1c6b681c5fc8c84587cfd36fb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          945, 
+          102
+        ], 
+        [
+          1041, 
+          198
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/right_view_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        46
+      ], 
+      "size": "96*96", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "562175c05c0966a79e064b018a64c2ba", 
+      "enabled": true, 
+      "bounds": [
+        [
+          945, 
+          102
+        ], 
+        [
+          1041, 
+          198
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/download_content_root", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        47
+      ], 
+      "size": "96*96", 
+      "checked": false, 
+      "temp_id": 46, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/download_content_root", 
+      "is_password": false, 
+      "parent": 45, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "858aaf25766f51ec39a84d9a88637e9d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          945, 
+          102
+        ], 
+        [
+          1041, 
+          198
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.qihoo.appstore:id/download_content_root[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.qihoo.appstore:id/download_content_img", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "60*72", 
+      "checked": false, 
+      "temp_id": 47, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.qihoo.appstore:id/download_content_img", 
+      "is_password": false, 
+      "parent": 46, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.qihoo.appstore", 
+      "long_clickable": false, 
+      "view_str": "68a423842287697819138a4af5818554", 
+      "enabled": true, 
+      "bounds": [
+        [
+          960, 
+          108
+        ], 
+        [
+          1020, 
+          180
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.qihoo.appstore:id/download_content_img[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "71937d813d1703bf44e3a3f2f7d1c84d", 
+  "activity_stack": [
+    "com.qihoo.appstore/.search.SearchActivity", 
+    "com.qihoo.appstore/.home.MainActivity"
+  ], 
+  "background_services": [
+    "com.android.bluetooth/.hid.HidService", 
+    "com.android.engineeringmode/.nvbackup.NVBackupStatusService", 
+    "org.codeaurora.ims/.ImsService", 
+    "com.android.contacts/com.oneplus.contacts.OPContactsPersistService", 
+    "com.qihoo.appstore/.floatwin.FloatWindowService", 
+    "com.qihoo.appstore/.AppStoreNotificationListenerService", 
+    "com.qualcomm.location/.LocationService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.qihoo.appstore/com.stub.plugin.Stub02", 
+    "com.qualcomm.location/.izat.IzatService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.oneplus.permissionutil/.MessengerService", 
+    "com.android.mms/.OPMmsPersistService", 
+    "com.tencent.tim/com.tencent.mobileqq.contactsync.syncadapter.SyncService", 
+    "com.qualcomm.qti.tetherservice/.TetherService", 
+    "com.oneplus.simcontacts/.autoimport.SimContactsService", 
+    "com.sohu.inputmethod.sogou/com.sogou.androidtool.support.SupportService", 
+    "com.dsi.ant.server/.AntService", 
+    "com.qualcomm.location/.izatserviceprovider.service.UnifiedLocationService", 
+    "com.oneplus.security/.SecureService", 
+    "com.android.browser/com.tencent.mtt.browser.push.service.PushRemoteService", 
+    "com.oneplus.opbugreport/.OPReportService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.android.bluetooth/.pbap.BluetoothPbapService", 
+    "net.oneplus.odm/.insight.OneplusAnalyticsJobService", 
+    "com.oneplus.opbackup/.service.BackupService", 
+    "org.codeaurora.bluetooth/.dun.BluetoothDunService", 
+    "com.oneplus.oplocationservice/.OPLocationService", 
+    "com.android.bluetooth/.a2dp.A2dpService", 
+    "com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService", 
+    "com.qti.service.colorservice/.ColorServiceApp", 
+    "com.sohu.inputmethod.sogou/sogou.mobile.explorer.hotwords.entrance.HotwordsExtendEntranceService", 
+    "com.amap.android.ams/.service.HwActivityService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.android.browser/com.tencent.mtt.BrowserService", 
+    "com.android.systemui/.SystemUIService", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.amap.android.ams/.service.HwGeofenceService", 
+    "com.android.server.telecom/.oneplus.OPTelecomService", 
+    "com.sohu.inputmethod.sogou/com.sogou.udp.push.PushService", 
+    "com.qualcomm.location/.LBSSystemMonitorService", 
+    "com.baidu.input_yijia/com.baidu.input.switchguide.GuideService", 
+    "net.oneplus.odm/.DeviceManagerService", 
+    "com.qihoo.appstore/com.morgoo.droidplugin.PluginManagerService", 
+    "com.amap.android.ams/.geocode.GeocodeService", 
+    "com.svox.pico/.PicoService", 
+    "com.android.server.telecom/.components.BluetoothPhoneService", 
+    "com.sohu.inputmethod.sogou/com.sogou.udp.push.SGPushMessageService", 
+    "com.qualcomm.location/.izatserviceprovider.service.NetworkLocationService", 
+    "com.qti.dpmserviceapp/.DpmServiceApp", 
+    "com.oneplus.security/.firewall.NetworkRestrictService", 
+    "com.qihoo.appstore/.service.CommonDaemonService", 
+    "com.oneplus.market/.service.DownloadService", 
+    "com.android.stk/.StkAppService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.android.providers.media/.MtpService", 
+    "com.android.bluetooth/.hfp.HeadsetService", 
+    "com.qihoo.appstore/com.qihoo.sdk.report.network.NetworkService", 
+    "com.qti.qualcomm.datastatusnotification/.DataStatusNotificationService", 
+    "com.amap.android.ams/.network.NetworkLocationService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.amap.android.ams/.service.HwFusedService", 
+    "com.oneplus.permissionutil/.ControlService", 
+    "com.android.bluetooth/.map.BluetoothMapService", 
+    "com.oneplus.card/.service.OnePlusCardReminder", 
+    "com.android.phone/.TelephonyDebugService", 
+    "se.dirac.acs/.AudioControlService", 
+    "com.qihoo.appstore/com.qihoo.core.CoreService", 
+    "com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.status.SogouStatusService", 
+    "com.android.bluetooth/.pan.PanService"
+  ], 
+  "state_str": "a98b12d60ec609554b585f481dcaf3d4", 
+  "tag": "2017-09-24_132941", 
+  "foreground_activity": "com.qihoo.appstore/.search.SearchActivity"
+}

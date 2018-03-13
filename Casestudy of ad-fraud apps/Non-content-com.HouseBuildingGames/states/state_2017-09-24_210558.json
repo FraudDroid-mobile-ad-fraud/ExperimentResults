@@ -1,0 +1,803 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "6df72af1f26d4e972040316d9f687616", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "40631620268bf25d873354b4264c8e9c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*1848", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "37554262be73a7f1407ec7646700fb4c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4, 
+        16
+      ], 
+      "size": "1080*1848", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "01141a9ca50eb1f3d5e0c9c3156b5842", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5
+      ], 
+      "size": "1080*1848", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "3dbb0ef028b52154f734474a31d9640e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "StartApp", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1080*1848", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "73085c511bc7d2315fedd29dd17a1b0e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": "fullpage", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7, 
+        14, 
+        15
+      ], 
+      "size": "4860*1848", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.View[resource_id]fullpage", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "d32043bc4071dd953533bf2eeca7db21", 
+      "enabled": true, 
+      "bounds": [
+        [
+          -1890, 
+          72
+        ], 
+        [
+          2970, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]fullpage[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": "container", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8
+      ], 
+      "size": "4860*1620", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]container", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "6b3b66a6ce108dde011835ad37a25442", 
+      "enabled": true, 
+      "bounds": [
+        [
+          -1890, 
+          186
+        ], 
+        [
+          2970, 
+          1806
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9, 
+        13
+      ], 
+      "size": "4860*1572", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "0392dc2ee85f0eca7c6c921750b52af7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          -1890, 
+          198
+        ], 
+        [
+          2970, 
+          1770
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        10
+      ], 
+      "size": "813*981", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "8f9dcb79ec342380cc754ee6b8f79f86", 
+      "enabled": true, 
+      "bounds": [
+        [
+          90, 
+          672
+        ], 
+        [
+          903, 
+          1653
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        11, 
+        12
+      ], 
+      "size": "798*807", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "35f70333cc3a3e7242165ede8d31aef7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          90, 
+          846
+        ], 
+        [
+          888, 
+          1653
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "369*369", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "976e3efb1f56fa50e5d6340ead9f8230", 
+      "enabled": true, 
+      "bounds": [
+        [
+          300, 
+          1116
+        ], 
+        [
+          669, 
+          1485
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "Best Mobile Portal!", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "528*117", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "976e3efb1f56fa50e5d6340ead9f8230", 
+      "enabled": true, 
+      "bounds": [
+        [
+          198, 
+          1461
+        ], 
+        [
+          726, 
+          1578
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "CLICK NOW", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "474*135", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "8addcc27360ca9d34f076d91726754dc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          303, 
+          1635
+        ], 
+        [
+          777, 
+          1770
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "X", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "96*96", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "606367b8172025881008adf193dd330c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          54, 
+          126
+        ], 
+        [
+          150, 
+          222
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "120*120", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "606367b8172025881008adf193dd330c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          45, 
+          117
+        ], 
+        [
+          165, 
+          237
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        17
+      ], 
+      "size": "165*138", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "70356e7e8af8de5974e98d9db94d9eb1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1782
+        ], 
+        [
+          165, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        18
+      ], 
+      "size": "165*138", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "db3653091ae1463998be1c502763ac6d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1782
+        ], 
+        [
+          165, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "75*63", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "d3d6d459c0e33843734892d0481110b1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1857
+        ], 
+        [
+          75, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "104e331d8cbaaecb024b566ac1760c03", 
+  "activity_stack": [
+    "com.HouseBuildingGames/com.startapp.android.publish.AppWallActivity"
+  ], 
+  "background_services": [
+    "com.android.bluetooth/.hid.HidService", 
+    "com.android.engineeringmode/.nvbackup.NVBackupStatusService", 
+    "org.codeaurora.ims/.ImsService", 
+    "com.qualcomm.location/.LocationService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.qualcomm.location/.izat.IzatService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.oneplus.permissionutil/.MessengerService", 
+    "com.tencent.tim/com.tencent.mobileqq.contactsync.syncadapter.SyncService", 
+    "com.qualcomm.qti.tetherservice/.TetherService", 
+    "com.oneplus.simcontacts/.autoimport.SimContactsService", 
+    "com.sohu.inputmethod.sogou/com.sogou.androidtool.support.SupportService", 
+    "com.dsi.ant.server/.AntService", 
+    "com.qualcomm.location/.izatserviceprovider.service.UnifiedLocationService", 
+    "com.oneplus.security/.SecureService", 
+    "com.android.browser/com.tencent.mtt.browser.push.service.PushRemoteService", 
+    "com.oneplus.opbugreport/.OPReportService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.android.bluetooth/.pbap.BluetoothPbapService", 
+    "net.oneplus.odm/.insight.OneplusAnalyticsJobService", 
+    "com.oneplus.opbackup/.service.BackupService", 
+    "org.codeaurora.bluetooth/.dun.BluetoothDunService", 
+    "com.oneplus.oplocationservice/.OPLocationService", 
+    "com.android.bluetooth/.a2dp.A2dpService", 
+    "com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService", 
+    "com.qti.service.colorservice/.ColorServiceApp", 
+    "com.amap.android.ams/.service.HwActivityService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.android.browser/com.tencent.mtt.BrowserService", 
+    "com.android.systemui/.SystemUIService", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.amap.android.ams/.service.HwGeofenceService", 
+    "com.android.server.telecom/.oneplus.OPTelecomService", 
+    "com.qualcomm.location/.LBSSystemMonitorService", 
+    "com.baidu.input_yijia/com.baidu.input.switchguide.GuideService", 
+    "net.oneplus.odm/.DeviceManagerService", 
+    "com.amap.android.ams/.geocode.GeocodeService", 
+    "com.svox.pico/.PicoService", 
+    "com.android.server.telecom/.components.BluetoothPhoneService", 
+    "com.qualcomm.location/.izatserviceprovider.service.NetworkLocationService", 
+    "com.qti.dpmserviceapp/.DpmServiceApp", 
+    "com.oneplus.security/.firewall.NetworkRestrictService", 
+    "com.android.stk/.StkAppService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.android.bluetooth/.hfp.HeadsetService", 
+    "com.qti.qualcomm.datastatusnotification/.DataStatusNotificationService", 
+    "com.amap.android.ams/.network.NetworkLocationService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.tencent.tim/com.tencent.mobileqq.msf.service.MsfService", 
+    "com.amap.android.ams/.service.HwFusedService", 
+    "com.oneplus.permissionutil/.ControlService", 
+    "com.android.bluetooth/.map.BluetoothMapService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "se.dirac.acs/.AudioControlService", 
+    "com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.status.SogouStatusService", 
+    "com.android.bluetooth/.pan.PanService"
+  ], 
+  "state_str": "4012a2803589f089fd784f179559d018", 
+  "tag": "2017-09-24_210558", 
+  "foreground_activity": "com.HouseBuildingGames/com.startapp.android.publish.AppWallActivity"
+}

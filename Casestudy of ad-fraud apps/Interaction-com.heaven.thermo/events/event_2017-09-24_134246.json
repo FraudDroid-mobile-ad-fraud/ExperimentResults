@@ -1,0 +1,48 @@
+{
+  "stop_state": "bd6163a3f4b6f1cf800c5c7798f9fd16", 
+  "event_str": "TouchEvent(view=3d708edcaf445081613abb3acb775317)", 
+  "tag": "2017-09-24_134246", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.heaven.thermo:id/tv_fahrenheit_status", 
+      "text": " F ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "54*68", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.heaven.thermo:id/tv_fahrenheit_status", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "3d708edcaf445081613abb3acb775317", 
+      "enabled": true, 
+      "bounds": [
+        [
+          676, 
+          1554
+        ], 
+        [
+          730, 
+          1622
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.heaven.thermo:id/tv_fahrenheit_status[text] F [enabled,,]"
+    }
+  }, 
+  "start_state": "bd6163a3f4b6f1cf800c5c7798f9fd16"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "be32517447a1c521cec85e7212920609", 
+  "event_str": "TouchEvent(view=509104673e0bd77de9e15ce1940d48c5)", 
+  "tag": "2017-09-24_134233", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "Thermo", 
+      "resource_id": "com.heaven.thermo:id/iv_thermometer_picture", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "530*1180", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.heaven.thermo:id/iv_thermometer_picture", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "509104673e0bd77de9e15ce1940d48c5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          275, 
+          345
+        ], 
+        [
+          805, 
+          1525
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]com.heaven.thermo:id/iv_thermometer_picture[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "bd6163a3f4b6f1cf800c5c7798f9fd16"
+}

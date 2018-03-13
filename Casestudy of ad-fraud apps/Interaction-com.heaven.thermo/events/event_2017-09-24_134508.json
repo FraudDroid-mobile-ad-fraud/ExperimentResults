@@ -1,0 +1,51 @@
+{
+  "stop_state": "1b4a8c494f757a104ad3993027639c1e", 
+  "event_str": "ScrollEvent(view=9da3081c68f76e0b911175ac4c241196, direction=UP)", 
+  "tag": "2017-09-24_134508", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "view": {
+      "content_description": "StartApp", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1080*1848", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "9da3081c68f76e0b911175ac4c241196", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "0dce72be5a5152f701b5fb010ab32e5c"
+}

@@ -1,0 +1,10 @@
+{
+  "stop_state": "b7a003449e4e011050ca107a9db13dbf", 
+  "event_str": "IntentEvent(intent='am start com.sink.apps.girl.voice.changer/com.sink.apps.girl.voice.changer.MainActivity')", 
+  "tag": "2017-09-24_133301", 
+  "event": {
+    "intent": "am start com.sink.apps.girl.voice.changer/com.sink.apps.girl.voice.changer.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "8c396ce1fc7cae8b9bdd6d002b5a6bfb"
+}

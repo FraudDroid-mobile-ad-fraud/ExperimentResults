@@ -1,0 +1,10 @@
+{
+  "stop_state": "0dce72be5a5152f701b5fb010ab32e5c", 
+  "event_str": "IntentEvent(intent='am start com.heaven.thermo/com.heaven.thermo.AcCheck')", 
+  "tag": "2017-09-24_134139", 
+  "event": {
+    "intent": "am start com.heaven.thermo/com.heaven.thermo.AcCheck", 
+    "event_type": "intent"
+  }, 
+  "start_state": "d79f4428fe0d8a74f9e11ae027dbb140"
+}

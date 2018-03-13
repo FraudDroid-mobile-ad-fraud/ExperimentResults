@@ -1,0 +1,10 @@
+{
+  "stop_state": "4e2014a10593d2b452c63d03ae7886ea", 
+  "event_str": "KeyEvent(state=9c3117e5c72d53800fbfdc014344172c, name=BACK)", 
+  "tag": "2017-09-24_211037", 
+  "event": {
+    "event_type": "key", 
+    "name": "BACK"
+  }, 
+  "start_state": "9c3117e5c72d53800fbfdc014344172c"
+}

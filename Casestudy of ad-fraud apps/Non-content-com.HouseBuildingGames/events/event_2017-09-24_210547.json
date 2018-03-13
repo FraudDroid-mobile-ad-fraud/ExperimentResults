@@ -1,0 +1,10 @@
+{
+  "stop_state": "5e43e831804592b98a563460355217df", 
+  "event_str": "IntentEvent(intent='am start com.HouseBuildingGames/com.HouseBuildingGames.MainActivity')", 
+  "tag": "2017-09-24_210547", 
+  "event": {
+    "intent": "am start com.HouseBuildingGames/com.HouseBuildingGames.MainActivity", 
+    "event_type": "intent"
+  }, 
+  "start_state": "424d2084deffdc46061315f0b59e0f71"
+}

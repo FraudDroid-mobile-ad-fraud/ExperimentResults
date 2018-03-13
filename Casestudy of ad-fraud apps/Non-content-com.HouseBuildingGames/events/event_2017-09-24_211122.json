@@ -1,0 +1,48 @@
+{
+  "stop_state": "d8a5326f5f7536711c5d27f901ff2298", 
+  "event_str": "TouchEvent(view=af5fa73172bfcb415f32d9b5c62661ac)", 
+  "tag": "2017-09-24_211122", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.HouseBuildingGames:id/linearLayout4", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "450*1788", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.HouseBuildingGames:id/linearLayout4", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "af5fa73172bfcb415f32d9b5c62661ac", 
+      "enabled": true, 
+      "bounds": [
+        [
+          315, 
+          132
+        ], 
+        [
+          765, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.HouseBuildingGames:id/linearLayout4[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "341ce17ab3f15f91b26040b3fb5ac906"
+}

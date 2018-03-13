@@ -1,0 +1,50 @@
+{
+  "stop_state": "e48a8ac2673bc641fe9926478eb6b24b", 
+  "event_str": "TouchEvent(view=2f66c5ea432274af549a7ff1e8b9e2b4)", 
+  "tag": "2017-09-24_134058", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        37
+      ], 
+      "size": "1080*206", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.TableLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TableLayout", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "2f66c5ea432274af549a7ff1e8b9e2b4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1714
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.TableLayout[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "d534fc9ab812342fa0a1dcbe2f8d44af"
+}

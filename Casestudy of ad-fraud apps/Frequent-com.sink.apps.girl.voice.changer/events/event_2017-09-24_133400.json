@@ -1,0 +1,48 @@
+{
+  "stop_state": "ea1498631045681832bacda40adb464d", 
+  "event_str": "TouchEvent(view=71e96f0d0222d1e61f22fcf29e8ffc73)", 
+  "tag": "2017-09-24_133400", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/statusBarBackground", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*72", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "71e96f0d0222d1e61f22fcf29e8ffc73", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          72
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "ea1498631045681832bacda40adb464d"
+}

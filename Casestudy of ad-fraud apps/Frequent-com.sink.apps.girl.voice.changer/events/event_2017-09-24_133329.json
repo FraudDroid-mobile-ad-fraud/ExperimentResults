@@ -1,0 +1,51 @@
+{
+  "stop_state": "ea1498631045681832bacda40adb464d", 
+  "event_str": "TouchEvent(view=abc44432952c89a5f4b5b06d2fa79601)", 
+  "tag": "2017-09-24_133329", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "\u5e94\u7528\u8be6\u60c5, \u8f6c\u5230\u4e0a\u4e00\u5c42\u7ea7", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9, 
+        11
+      ], 
+      "size": "1080*168", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "abc44432952c89a5f4b5b06d2fa79601", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          240
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "ea1498631045681832bacda40adb464d"
+}

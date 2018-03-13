@@ -1,0 +1,48 @@
+{
+  "stop_state": "abc2cd4b6c0285b95173fb79a78e033e", 
+  "event_str": "TouchEvent(view=8b0b84bd1b3345d1c254f09a67991239)", 
+  "tag": "2017-09-24_134516", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/progress", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "144*144", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ProgressBar[resource_id]android:id/progress", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ProgressBar", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "8b0b84bd1b3345d1c254f09a67991239", 
+      "enabled": true, 
+      "bounds": [
+        [
+          355, 
+          925
+        ], 
+        [
+          499, 
+          1069
+        ]
+      ], 
+      "signature": "[class]android.widget.ProgressBar[resource_id]android:id/progress[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "1b4a8c494f757a104ad3993027639c1e"
+}

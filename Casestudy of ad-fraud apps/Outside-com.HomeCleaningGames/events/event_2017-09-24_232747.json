@@ -1,0 +1,48 @@
+{
+  "stop_state": "46e87f846daee0231d075ca562c10e87", 
+  "event_str": "TouchEvent(view=3d827902097b70ac0a6767fbba9db63b)", 
+  "tag": "2017-09-24_232747", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "NO THANKS", 
+      "resource_id": "close-circle", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "516*78", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]close-circle", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HomeCleaningGames", 
+      "long_clickable": false, 
+      "view_str": "3d827902097b70ac0a6767fbba9db63b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          282, 
+          1638
+        ], 
+        [
+          798, 
+          1716
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]close-circle[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "55389e34a68ea267e4e28ccf05744e2b"
+}

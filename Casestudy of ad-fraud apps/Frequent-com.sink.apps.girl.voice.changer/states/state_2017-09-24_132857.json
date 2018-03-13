@@ -1,0 +1,546 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1
+      ], 
+      "size": "1080*507", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "fdc590a3d2ff42aa7ef6a9152b6c441b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1413
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*507", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "5804ba6c50d94e17d4feb7e83f3ade66", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1413
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*507", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "68ef1cefa570fad7a948e41d0d5885b4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1413
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.oneplus.market:id/ih", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4, 
+        5, 
+        9
+      ], 
+      "size": "1080*507", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.oneplus.market:id/ih", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "7132d04342297a2e424f5e9fb934e28e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1413
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.oneplus.market:id/ih[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*105", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]None", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "9bc5457fa4c17612ff9a46762de1ce63", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1413
+        ], 
+        [
+          1080, 
+          1518
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.oneplus.market:id/im", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1080*240", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.oneplus.market:id/im", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "e9cb06824156287e10a42e20e197eccc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1518
+        ], 
+        [
+          1080, 
+          1758
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.oneplus.market:id/im[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.oneplus.market:id/bg", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7
+      ], 
+      "size": "1080*240", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]com.oneplus.market:id/bg", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ScrollView", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "203faebe6f73c054edeb8a6604596254", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1518
+        ], 
+        [
+          1080, 
+          1758
+        ]
+      ], 
+      "signature": "[class]android.widget.ScrollView[resource_id]com.oneplus.market:id/bg[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8
+      ], 
+      "size": "1080*114", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "589eaeb3ffdbc321b5cbe1b951f4fe75", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1572
+        ], 
+        [
+          1080, 
+          1686
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "\u8be5\u5e94\u7528\u5f00\u53d1\u5546\u5e76\u672a\u9002\u914d\u60a8\u7684\u673a\u578b\uff0c\u65e0\u6cd5\u6b63\u5e38\u5b89\u88c5\u4f7f\u7528.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*114", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "64652a3b2a2863c14ddf01c12d630440", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1572
+        ], 
+        [
+          1080, 
+          1686
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]\u8be5\u5e94\u7528\u5f00\u53d1\u5546\u5e76\u672a\u9002\u914d\u60a8\u7684\u673a\u578b\uff0c\u65e0\u6cd5\u6b63\u5e38\u5b89\u88c5\u4f7f\u7528.[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "com.oneplus.market:id/iq", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        10, 
+        11
+      ], 
+      "size": "1080*162", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.oneplus.market:id/iq", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "b3c3bf8a6d7a5d063e51f2e1a9d14d11", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1758
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.oneplus.market:id/iq[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/button2", 
+      "text": "\u53d6\u6d88", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "465*108", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button2", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "1bd555c7aa50f5c34b410ef83b8c37b7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          75, 
+          1758
+        ], 
+        [
+          540, 
+          1866
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]android:id/button2[text]\u53d6\u6d88[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "\u786e\u5b9a", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "465*108", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button1", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.oneplus.market", 
+      "long_clickable": false, 
+      "view_str": "0f58217ca380378830fd7d573938011f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          1758
+        ], 
+        [
+          1005, 
+          1866
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]android:id/button1[text]\u786e\u5b9a[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "306d8ae49e58146fa6747e52a323a020", 
+  "activity_stack": [
+    "com.oneplus.market/.activity.ProductDetailActivity", 
+    "com.sink.apps.girl.voice.changer/.MainActivity"
+  ], 
+  "background_services": [
+    "com.android.bluetooth/.hid.HidService", 
+    "com.android.engineeringmode/.nvbackup.NVBackupStatusService", 
+    "org.codeaurora.ims/.ImsService", 
+    "com.android.contacts/com.oneplus.contacts.OPContactsPersistService", 
+    "com.qihoo.appstore/.floatwin.FloatWindowService", 
+    "com.qihoo.appstore/.AppStoreNotificationListenerService", 
+    "com.qualcomm.location/.LocationService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.qihoo.appstore/com.stub.plugin.Stub02", 
+    "com.qualcomm.location/.izat.IzatService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.oneplus.permissionutil/.MessengerService", 
+    "com.android.mms/.OPMmsPersistService", 
+    "com.tencent.tim/com.tencent.mobileqq.contactsync.syncadapter.SyncService", 
+    "com.qualcomm.qti.tetherservice/.TetherService", 
+    "com.oneplus.simcontacts/.autoimport.SimContactsService", 
+    "com.sohu.inputmethod.sogou/com.sogou.androidtool.support.SupportService", 
+    "com.dsi.ant.server/.AntService", 
+    "com.qualcomm.location/.izatserviceprovider.service.UnifiedLocationService", 
+    "com.oneplus.security/.SecureService", 
+    "com.android.browser/com.tencent.mtt.browser.push.service.PushRemoteService", 
+    "com.oneplus.opbugreport/.OPReportService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.android.bluetooth/.pbap.BluetoothPbapService", 
+    "net.oneplus.odm/.insight.OneplusAnalyticsJobService", 
+    "com.oneplus.opbackup/.service.BackupService", 
+    "org.codeaurora.bluetooth/.dun.BluetoothDunService", 
+    "com.oneplus.oplocationservice/.OPLocationService", 
+    "com.android.bluetooth/.a2dp.A2dpService", 
+    "com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService", 
+    "com.qti.service.colorservice/.ColorServiceApp", 
+    "com.sohu.inputmethod.sogou/sogou.mobile.explorer.hotwords.entrance.HotwordsExtendEntranceService", 
+    "com.amap.android.ams/.service.HwActivityService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.android.browser/com.tencent.mtt.BrowserService", 
+    "com.android.systemui/.SystemUIService", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.amap.android.ams/.service.HwGeofenceService", 
+    "com.android.server.telecom/.oneplus.OPTelecomService", 
+    "com.sohu.inputmethod.sogou/com.sogou.udp.push.PushService", 
+    "com.qualcomm.location/.LBSSystemMonitorService", 
+    "com.baidu.input_yijia/com.baidu.input.switchguide.GuideService", 
+    "net.oneplus.odm/.DeviceManagerService", 
+    "com.qihoo.appstore/com.morgoo.droidplugin.PluginManagerService", 
+    "com.amap.android.ams/.geocode.GeocodeService", 
+    "com.svox.pico/.PicoService", 
+    "com.android.server.telecom/.components.BluetoothPhoneService", 
+    "com.sohu.inputmethod.sogou/com.sogou.udp.push.SGPushMessageService", 
+    "com.qualcomm.location/.izatserviceprovider.service.NetworkLocationService", 
+    "com.qti.dpmserviceapp/.DpmServiceApp", 
+    "com.oneplus.security/.firewall.NetworkRestrictService", 
+    "com.qihoo.appstore/.service.CommonDaemonService", 
+    "com.oneplus.market/.service.DownloadService", 
+    "com.android.stk/.StkAppService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.android.providers.media/.MtpService", 
+    "com.android.bluetooth/.hfp.HeadsetService", 
+    "com.qti.qualcomm.datastatusnotification/.DataStatusNotificationService", 
+    "com.amap.android.ams/.network.NetworkLocationService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.amap.android.ams/.service.HwFusedService", 
+    "com.oneplus.permissionutil/.ControlService", 
+    "com.android.bluetooth/.map.BluetoothMapService", 
+    "com.oneplus.card/.service.OnePlusCardReminder", 
+    "com.android.phone/.TelephonyDebugService", 
+    "se.dirac.acs/.AudioControlService", 
+    "com.qihoo.appstore/com.qihoo.core.CoreService", 
+    "com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.status.SogouStatusService", 
+    "com.android.bluetooth/.pan.PanService"
+  ], 
+  "state_str": "c7cfd110148ae94bff697360993e1241", 
+  "tag": "2017-09-24_132857", 
+  "foreground_activity": "com.oneplus.market/.activity.ProductDetailActivity"
+}

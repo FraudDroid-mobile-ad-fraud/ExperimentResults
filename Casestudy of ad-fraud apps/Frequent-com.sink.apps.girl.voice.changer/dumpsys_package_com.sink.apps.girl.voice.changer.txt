@@ -1,0 +1,51 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        2790775 com.sink.apps.girl.voice.changer/.MainActivity
+
+Key Set Manager:
+  [com.sink.apps.girl.voice.changer]
+      Signing KeySets: 448
+
+Packages:
+  Package [com.sink.apps.girl.voice.changer] (74c030a):
+    userId=10448
+    pkg=Package{806877b com.sink.apps.girl.voice.changer}
+    codePath=/data/app/com.sink.apps.girl.voice.changer-1
+    resourcePath=/data/app/com.sink.apps.girl.voice.changer-1
+    legacyNativeLibraryDir=/data/app/com.sink.apps.girl.voice.changer-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=5 targetSdk=23
+    versionName=1.0.4
+    splits=[base]
+    applicationInfo=ApplicationInfo{c315998 com.sink.apps.girl.voice.changer}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/user/0/com.sink.apps.girl.voice.changer
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-09-24 13:27:41
+    firstInstallTime=2017-09-24 13:27:45
+    lastUpdateTime=2017-09-24 13:27:45
+    signatures=PackageSignatures{ddfa5f1 [62f45d6]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.RECORD_AUDIO
+      android.permission.INTERNET
+      android.permission.MODIFY_AUDIO_SETTINGS
+      android.permission.BROADCAST_STICKY
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.ACCESS_NETWORK_STATE
+    install permissions:
+      android.permission.MODIFY_AUDIO_SETTINGS: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.BROADCAST_STICKY: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+    User 0:  installed=true hidden=false stopped=true notLaunched=true enabled=0
+      gids=[3003]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=true
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true

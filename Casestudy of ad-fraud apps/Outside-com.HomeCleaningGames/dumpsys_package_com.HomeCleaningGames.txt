@@ -1,0 +1,46 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        c29026 com.HomeCleaningGames/.MainActivity
+
+Key Set Manager:
+  [com.HomeCleaningGames]
+      Signing KeySets: 540
+
+Packages:
+  Package [com.HomeCleaningGames] (e272467):
+    userId=10540
+    pkg=Package{26c1214 com.HomeCleaningGames}
+    codePath=/data/app/com.HomeCleaningGames-1
+    resourcePath=/data/app/com.HomeCleaningGames-1
+    legacyNativeLibraryDir=/data/app/com.HomeCleaningGames-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=5 targetSdk=16
+    versionName=5.0
+    splits=[base]
+    applicationInfo=ApplicationInfo{4fdfabd com.HomeCleaningGames}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/user/0/com.HomeCleaningGames
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-09-24 23:22:11
+    firstInstallTime=2017-09-24 23:22:15
+    lastUpdateTime=2017-09-24 23:22:15
+    signatures=PackageSignatures{db788b2 [e77a003]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.READ_EXTERNAL_STORAGE
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.READ_EXTERNAL_STORAGE: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WRITE_EXTERNAL_STORAGE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+    User 0:  installed=true hidden=false stopped=true notLaunched=true enabled=0
+      gids=[3003]
+      runtime permissions:

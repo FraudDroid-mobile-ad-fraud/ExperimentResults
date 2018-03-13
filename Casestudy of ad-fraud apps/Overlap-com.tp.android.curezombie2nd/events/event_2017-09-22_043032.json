@@ -1,0 +1,10 @@
+{
+  "stop_state": "04c9d9702ba403a97530354a6d0bac77", 
+  "event_str": "IntentEvent(intent='am force-stop com.tp.android.curezombie2nd')", 
+  "tag": "2017-09-22_043032", 
+  "event": {
+    "intent": "am force-stop com.tp.android.curezombie2nd", 
+    "event_type": "intent"
+  }, 
+  "start_state": "c09f71ae21e3083f99f128d36b3cc59c"
+}

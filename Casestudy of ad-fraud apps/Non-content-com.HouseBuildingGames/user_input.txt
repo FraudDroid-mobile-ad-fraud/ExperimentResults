@@ -1,0 +1,16 @@
+add device 1: /dev/input/event7
+  name:     "msm8994-tomtom-mtp-snd-card Headset Jack"
+add device 2: /dev/input/event6
+  name:     "msm8994-tomtom-mtp-snd-card Button Jack"
+add device 3: /dev/input/event2
+  name:     "qpnp_pon"
+could not open /dev/input/event1, Permission denied
+add device 4: /dev/input/event0
+  name:     "fpc1020"
+could not get driver version for /dev/input/mice, Not a typewriter
+add device 5: /dev/input/event5
+  name:     "gpio-keys"
+add device 6: /dev/input/event3
+  name:     "synaptics,s1302"
+add device 7: /dev/input/event4
+  name:     "synaptics,s3320"

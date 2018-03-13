@@ -1,0 +1,48 @@
+{
+  "stop_state": "d79f4428fe0d8a74f9e11ae027dbb140", 
+  "event_str": "TouchEvent(view=f54688b0ba5e7299cd1701e11614096f)", 
+  "tag": "2017-09-24_134110", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.heaven.thermo:id/b_vote_rate", 
+      "text": "Rate", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "360*126", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.heaven.thermo:id/b_vote_rate", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "f54688b0ba5e7299cd1701e11614096f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          543, 
+          1220
+        ], 
+        [
+          903, 
+          1346
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.heaven.thermo:id/b_vote_rate[text]Rate[enabled,,]"
+    }
+  }, 
+  "start_state": "e48a8ac2673bc641fe9926478eb6b24b"
+}

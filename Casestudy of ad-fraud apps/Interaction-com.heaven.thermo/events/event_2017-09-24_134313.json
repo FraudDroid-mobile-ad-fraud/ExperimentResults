@@ -1,0 +1,48 @@
+{
+  "stop_state": "0e552c9c27a007e31c35a28d5dfcdb77", 
+  "event_str": "TouchEvent(view=126e94ca35c5e4b574911f41de94cad7)", 
+  "tag": "2017-09-24_134313", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.heaven.thermo:id/tv_celsius", 
+      "text": " \u00b0C ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "78*68", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.heaven.thermo:id/tv_celsius", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "126e94ca35c5e4b574911f41de94cad7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          451, 
+          1554
+        ], 
+        [
+          529, 
+          1622
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.heaven.thermo:id/tv_celsius[text] \u00b0C [enabled,,]"
+    }
+  }, 
+  "start_state": "0e552c9c27a007e31c35a28d5dfcdb77"
+}

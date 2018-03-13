@@ -1,0 +1,512 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1
+      ], 
+      "size": "1080*1776", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "386b8f7caae1b2d189cad000984bc9bb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2, 
+        8, 
+        9, 
+        10, 
+        11
+      ], 
+      "size": "1080*720", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "71692bab65a6595e8173b4c002f65c15", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          528
+        ], 
+        [
+          1080, 
+          1248
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*720", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "a9d56507693ff11cb7c0a74ecf5f2478", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          528
+        ], 
+        [
+          1080, 
+          1248
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4, 
+        5, 
+        7
+      ], 
+      "size": "1080*720", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": true, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "3a7b206f2c7fab9bdc5b3277dff2b96f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          528
+        ], 
+        [
+          1080, 
+          1248
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "Link", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*720", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "95c865c52024735309c77635fd5c2109", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          528
+        ], 
+        [
+          1080, 
+          1248
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1080*720", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "21665bf082e87c059b435e52edd04a18", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          528
+        ], 
+        [
+          1080, 
+          1248
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*720", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "95ea097898c7057afe0450d055c4543d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          528
+        ], 
+        [
+          1080, 
+          1248
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "135*42", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Image[resource_id]None", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.Image", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "6ea6f1a0450de7cef915a39bb0d3c42e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1209
+        ], 
+        [
+          135, 
+          1251
+        ]
+      ], 
+      "signature": "[class]android.widget.Image[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "36*36", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "6be65234fd2405be9c9f5bb76fd4fdb8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          528
+        ], 
+        [
+          36, 
+          564
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "36*36", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "6be65234fd2405be9c9f5bb76fd4fdb8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          528
+        ], 
+        [
+          36, 
+          564
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "88*90", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "6be65234fd2405be9c9f5bb76fd4fdb8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          987, 
+          531
+        ], 
+        [
+          1075, 
+          621
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "88*90", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "6be65234fd2405be9c9f5bb76fd4fdb8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          987, 
+          531
+        ], 
+        [
+          1075, 
+          621
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "fc9bd92924a998b0670b2c551418cb8d", 
+  "activity_stack": [
+    "com.tp.android.curezombie2nd/.MaternityDoctor"
+  ], 
+  "background_services": [
+    "com.android.bluetooth/.hid.HidService", 
+    "com.google.android.backuptransport/com.google.android.backup.BackupTransportService", 
+    "com.android.phone/.BluetoothPhoneService", 
+    "com.google.android.tts/.service.GoogleTTSService", 
+    "com.google.android.gms/com.google.android.location.fused.NlpLocationReceiverService", 
+    "com.android.vending/com.google.android.finsky.services.DailyHygiene", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService", 
+    "com.google.android.gms/.gcm.GcmService", 
+    "com.tp.android.curezombie2nd/com.chance.engine.ChanceAdService", 
+    "com.android.keyguard/.KeyguardService", 
+    "com.google.android.gms/.playlog.uploader.UploaderIntentService", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.android.bluetooth/.pbap.BluetoothPbapService", 
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService", 
+    "com.google.android.youtube/com.google.android.apps.youtube.core.transfer.DownloadService", 
+    "com.android.bluetooth/.a2dp.A2dpService", 
+    "com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService", 
+    "com.android.chrome/org.chromium.content.app.SandboxedProcessService0", 
+    "com.android.chrome/org.chromium.content.app.SandboxedProcessService3", 
+    "com.android.chrome/org.chromium.content.app.SandboxedProcessService5", 
+    "com.android.chrome/org.chromium.content.app.SandboxedProcessService7", 
+    "com.android.chrome/org.chromium.content.app.SandboxedProcessService9", 
+    "com.android.systemui/.SystemUIService", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.google.android.gms/com.google.android.location.reporting.service.DispatchingService", 
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService", 
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService", 
+    "com.wmshua.superuser/com.qihoo.util.CommonService", 
+    "com.android.providers.media/.MtpService", 
+    "com.android.bluetooth/.hfp.HeadsetService", 
+    "android/com.android.internal.backup.LocalTransportService", 
+    "com.android.bluetooth/.map.BluetoothMapService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "com.google.android.talk/com.google.android.videochat.VideoChatService", 
+    "com.wmshua.superuser/com.qihoo.ls.SoService", 
+    "com.android.bluetooth/.pan.PanService"
+  ], 
+  "state_str": "34a216721f224f97a762c762a81c4674", 
+  "tag": "2017-09-22_043757", 
+  "foreground_activity": "com.tp.android.curezombie2nd/.MaternityDoctor"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "ea0ef0e118bc1218e05f5d22e76ba151", 
+  "event_str": "TouchEvent(view=fe93b341eea37eebf77d8c1726525cf1)", 
+  "tag": "2017-09-21_143449", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.sink.apps.girl.voice.changer:id/textView_name", 
+      "text": "myrecording2.pcm", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1020*81", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.sink.apps.girl.voice.changer:id/textView_name", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "fe93b341eea37eebf77d8c1726525cf1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          30, 
+          240
+        ], 
+        [
+          1050, 
+          321
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.sink.apps.girl.voice.changer:id/textView_name[text]myrecording2.pcm[enabled,,]"
+    }
+  }, 
+  "start_state": "b0b489bf747ae54c537c31f0a2d24362"
+}

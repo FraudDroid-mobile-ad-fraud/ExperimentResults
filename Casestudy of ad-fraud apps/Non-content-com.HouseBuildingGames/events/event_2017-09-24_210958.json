@@ -1,0 +1,48 @@
+{
+  "stop_state": "a318b516bdecf59ebb3f2b7f73a36f90", 
+  "event_str": "TouchEvent(view=b9803754730b88f55b8d36c721a6352f)", 
+  "tag": "2017-09-24_210958", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "Click Now", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "396*84", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "b9803754730b88f55b8d36c721a6352f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          561, 
+          1572
+        ], 
+        [
+          957, 
+          1656
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "eb250bb8e3b29ac9d4e9a1e5490c9c23"
+}

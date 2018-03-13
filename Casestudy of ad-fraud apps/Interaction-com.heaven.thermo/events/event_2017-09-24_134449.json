@@ -1,0 +1,48 @@
+{
+  "stop_state": "bd6163a3f4b6f1cf800c5c7798f9fd16", 
+  "event_str": "TouchEvent(view=194d7432cdf096ce32ce7e19dfaa1f75)", 
+  "tag": "2017-09-24_134449", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.heaven.thermo:id/tv_level_status", 
+      "text": "31.0", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "100*68", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.heaven.thermo:id/tv_level_status", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "194d7432cdf096ce32ce7e19dfaa1f75", 
+      "enabled": true, 
+      "bounds": [
+        [
+          351, 
+          1554
+        ], 
+        [
+          451, 
+          1622
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.heaven.thermo:id/tv_level_status[text]31.0[enabled,,]"
+    }
+  }, 
+  "start_state": "bd6163a3f4b6f1cf800c5c7798f9fd16"
+}

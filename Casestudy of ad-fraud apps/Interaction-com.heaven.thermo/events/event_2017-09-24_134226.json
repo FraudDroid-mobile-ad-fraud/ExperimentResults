@@ -1,0 +1,50 @@
+{
+  "stop_state": "bd6163a3f4b6f1cf800c5c7798f9fd16", 
+  "event_str": "TouchEvent(view=0c53f9ff9a2b3e5cc26f1cd9869f3c35)", 
+  "tag": "2017-09-24_134226", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.heaven.thermo:id/layout_balloon", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "501*122", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.TableLayout[resource_id]com.heaven.thermo:id/layout_balloon", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TableLayout", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "0c53f9ff9a2b3e5cc26f1cd9869f3c35", 
+      "enabled": true, 
+      "bounds": [
+        [
+          289, 
+          1525
+        ], 
+        [
+          790, 
+          1647
+        ]
+      ], 
+      "signature": "[class]android.widget.TableLayout[resource_id]com.heaven.thermo:id/layout_balloon[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "bd6163a3f4b6f1cf800c5c7798f9fd16"
+}

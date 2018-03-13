@@ -1,0 +1,48 @@
+{
+  "stop_state": "abc2cd4b6c0285b95173fb79a78e033e", 
+  "event_str": "TouchEvent(view=bac4c326597235d4288b15967437fea2)", 
+  "tag": "2017-09-24_134419", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "Loading....", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "195*57", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.heaven.thermo", 
+      "long_clickable": false, 
+      "view_str": "bac4c326597235d4288b15967437fea2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          535, 
+          968
+        ], 
+        [
+          730, 
+          1025
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]Loading....[enabled,,]"
+    }
+  }, 
+  "start_state": "1b4a8c494f757a104ad3993027639c1e"
+}

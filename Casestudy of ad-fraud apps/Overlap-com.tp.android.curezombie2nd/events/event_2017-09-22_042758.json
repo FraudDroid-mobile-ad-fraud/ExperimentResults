@@ -1,0 +1,48 @@
+{
+  "stop_state": "04c9d9702ba403a97530354a6d0bac77", 
+  "event_str": "TouchEvent(state=b9e724ef442a43fa07d4b1392b0d19bc, view=d717d4058d13d252d4d9f30a53e4a580)", 
+  "tag": "2017-09-22_042758", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/button1", 
+      "text": "Yes", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "474*144", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button1", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.tp.android.curezombie2nd", 
+      "long_clickable": false, 
+      "view_str": "d717d4058d13d252d4d9f30a53e4a580", 
+      "enabled": true, 
+      "bounds": [
+        [
+          69, 
+          898
+        ], 
+        [
+          543, 
+          1042
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]android:id/button1[text]Yes[enabled,,]"
+    }
+  }, 
+  "start_state": "b9e724ef442a43fa07d4b1392b0d19bc"
+}

@@ -1,0 +1,4076 @@
+{
+  "views": [
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        1
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 0, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": -1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "3be48f4133618ee63ab1d7d5dd8c7b8f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        2
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 1, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 0, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "c3359b3587b7856a65becd20dd756a61", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        3
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 2, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 1, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "cc7d27a0966d716f521b2f6b6ee01c8d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/action_bar_root", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        4
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]net.oneplus.launcher:id/action_bar_root", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "5fada8ce0b2340e243883177696b9ae5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]net.oneplus.launcher:id/action_bar_root[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "android:id/content", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        5
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "8c1f61cd5aab23fe488ff89448e4e372", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/launcher", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/launcher", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "0cccfa726d3c563a90f39d63b3655db7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/launcher[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/drag_layer", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        7, 
+        83, 
+        93, 
+        94
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 6, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/drag_layer", 
+      "is_password": false, 
+      "parent": 5, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "f87a672ed89ae0f2422af135723d017e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/drag_layer[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/workspace", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        8, 
+        51, 
+        65
+      ], 
+      "size": "1080*1920", 
+      "checked": false, 
+      "temp_id": 7, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]net.oneplus.launcher.Workspace[resource_id]net.oneplus.launcher:id/workspace", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "net.oneplus.launcher.Workspace", 
+      "scrollable": true, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "880d70b5ba4c4144b7d25947bfb79357", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1920
+        ]
+      ], 
+      "signature": "[class]net.oneplus.launcher.Workspace[resource_id]net.oneplus.launcher:id/workspace[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        9, 
+        50
+      ], 
+      "size": "0*1920", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "6e8bea214ac67d33808c72cb1d1f396a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          0, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        10
+      ], 
+      "size": "0*1920", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "577aac431b95e9d7029614458206862e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          0, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        11
+      ], 
+      "size": "0*1920", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.support.v4.widget.DrawerLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.support.v4.widget.DrawerLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "06c48efba5adecdb97811e45a273ed3c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          0, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.support.v4.widget.DrawerLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        12, 
+        36, 
+        37
+      ], 
+      "size": "0*1920", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "a682f8f0e766ffc9f8ff0e647c97d8c7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          0, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        13, 
+        17, 
+        21, 
+        25, 
+        29, 
+        33
+      ], 
+      "size": "0*1920", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 6, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_container", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "06a17f24fefbcc268533363895d4acc2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          0, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_contacts_container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        14, 
+        15
+      ], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_action_contacts_container", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "7caf2fe7039da2523e4fb28421aed568", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_action_contacts_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_contacts_text", 
+      "text": "\u6700\u8fd1\u8054\u7cfb\u4eba", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-191*49", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/fab_action_contacts_text", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "83d1c6b5aa939b6d0f547140460b21cf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1763
+        ], 
+        [
+          -191, 
+          1812
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/fab_action_contacts_text[text]\u6700\u8fd1\u8054\u7cfb\u4eba[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_contacts_contour", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        16
+      ], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/fab_action_contacts_contour", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "d60e8baf27dc3d941a3d554dcce0e071", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/fab_action_contacts_contour[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_contacts", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/fab_action_contacts", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageButton", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "5a4297e8f32f2b30d18acca83602ce50", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/fab_action_contacts[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_apps_container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        18, 
+        19
+      ], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_action_apps_container", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "2a4173fe561eea3ed98ea3904a26a2b6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_action_apps_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_apps_text", 
+      "text": "\u6700\u8fd1\u5e94\u7528", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-191*49", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/fab_action_apps_text", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "5534cf9c7eaf6ae7ad3ea03eb4d4449f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1763
+        ], 
+        [
+          -191, 
+          1812
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/fab_action_apps_text[text]\u6700\u8fd1\u5e94\u7528[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_apps_contour", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        20
+      ], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 19, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/fab_action_apps_contour", 
+      "is_password": false, 
+      "parent": 17, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "f77e13807e59bd39bef8011a4269194e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/fab_action_apps_contour[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_apps", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/fab_action_apps", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageButton", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "703238be4b020393349951206c39ec4c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/fab_action_apps[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_opcard_container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        22, 
+        23
+      ], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_action_opcard_container", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "0618d0696d08cea505488b0ce467d49c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_action_opcard_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_opcard_text", 
+      "text": "\u5361\u5238", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-191*49", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/fab_action_opcard_text", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "94ed68b33b3dee829cc0c3df3a4c6e31", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1763
+        ], 
+        [
+          -191, 
+          1812
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/fab_action_opcard_text[text]\u5361\u5238[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_opcard_contour", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        24
+      ], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/fab_action_opcard_contour", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "9a073e773fbe1b70dda5c9645416f1fd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/fab_action_opcard_contour[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_opcard", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/fab_action_opcard", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageButton", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "02f0e42f7a77bde36a98d73f1ffc039d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/fab_action_opcard[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_opcalendar_container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        26, 
+        27
+      ], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_action_opcalendar_container", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "6e0597204c599715bc54c25ac2266946", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_action_opcalendar_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_opcalendar_text", 
+      "text": "\u65e5\u5386", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-191*49", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/fab_action_opcalendar_text", 
+      "is_password": false, 
+      "parent": 25, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "aa2f8217584b7c76641bf93e33551b28", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1763
+        ], 
+        [
+          -191, 
+          1812
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/fab_action_opcalendar_text[text]\u65e5\u5386[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_opcalendar_contour", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        28
+      ], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/fab_action_opcalendar_contour", 
+      "is_password": false, 
+      "parent": 25, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "50d0dd798900a7a1aa7d1d8f6d4da348", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/fab_action_opcalendar_contour[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_opcalendar", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/fab_action_opcalendar", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageButton", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "09b0f5a839be80340b3c7750c9a4ab2d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/fab_action_opcalendar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_widgets_container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        30, 
+        31
+      ], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 29, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_action_widgets_container", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "810bb6d7b56ad13095df8891e1a12b79", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/fab_action_widgets_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_widgets_text", 
+      "text": "\u5c0f\u90e8\u4ef6", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-191*49", 
+      "checked": false, 
+      "temp_id": 30, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/fab_action_widgets_text", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "d730ce426b06225da35ff643446aeaa0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1763
+        ], 
+        [
+          -191, 
+          1812
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/fab_action_widgets_text[text]\u5c0f\u90e8\u4ef6[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_widgets_contour", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        32
+      ], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/fab_action_widgets_contour", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "2a0b9cb4d61deba2ee68488610f03f7e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/fab_action_widgets_contour[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/fab_action_widgets", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-71*120", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/fab_action_widgets", 
+      "is_password": false, 
+      "parent": 31, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageButton", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "4c64fbe3539eb5f814768c8413284f56", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1728
+        ], 
+        [
+          -71, 
+          1848
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/fab_action_widgets[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/main_fab_container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        34
+      ], 
+      "size": "0*216", 
+      "checked": false, 
+      "temp_id": 33, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/main_fab_container", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "86b1c44401891360eae490b0767300df", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1704
+        ], 
+        [
+          0, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/main_fab_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        35
+      ], 
+      "size": "-47*168", 
+      "checked": false, 
+      "temp_id": 34, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 33, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "ef8d0273f8bdd992e3bbea7059fad1ac", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1704
+        ], 
+        [
+          -47, 
+          1872
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/main_fab", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-47*168", 
+      "checked": false, 
+      "temp_id": 35, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/main_fab", 
+      "is_password": false, 
+      "parent": 34, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ImageButton", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "51f20ef514f906da483894b79b6df68e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1704
+        ], 
+        [
+          -47, 
+          1872
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageButton[resource_id]net.oneplus.launcher:id/main_fab[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/status_background", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "0*72", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]net.oneplus.launcher:id/status_background", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "802a70a84f7540b470560d7be63e9349", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          0, 
+          72
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]net.oneplus.launcher:id/status_background[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/listview", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        38, 
+        47
+      ], 
+      "size": "-23*1920", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]com.oneplus.lib.widget.recyclerview.RecyclerView[resource_id]net.oneplus.launcher:id/listview", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "com.oneplus.lib.widget.recyclerview.RecyclerView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "8f6c8bc867bf88fb2bc5de49b4792a75", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          -23, 
+          1920
+        ]
+      ], 
+      "signature": "[class]com.oneplus.lib.widget.recyclerview.RecyclerView[resource_id]net.oneplus.launcher:id/listview[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        39
+      ], 
+      "size": "-23*456", 
+      "checked": false, 
+      "temp_id": 38, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/container", 
+      "is_password": false, 
+      "parent": 37, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "e060bab8cf9e3918727ca4839d1a7408", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          -23, 
+          456
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/welcome_panel", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        40
+      ], 
+      "size": "-47*432", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/welcome_panel", 
+      "is_password": false, 
+      "parent": 38, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "17c7b209377e421b982e7746e8458de0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          24
+        ], 
+        [
+          -47, 
+          456
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]net.oneplus.launcher:id/welcome_panel[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/weather_container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        41, 
+        42
+      ], 
+      "size": "-47*150", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]net.oneplus.launcher:id/weather_container", 
+      "is_password": false, 
+      "parent": 39, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "d0bace0f197a4e31730f183fafcccdc6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          234
+        ], 
+        [
+          -47, 
+          384
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]net.oneplus.launcher:id/weather_container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/welcome_title", 
+      "text": "Never Settle", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-47*73", 
+      "checked": false, 
+      "temp_id": 41, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/welcome_title", 
+      "is_password": false, 
+      "parent": 40, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "a145321279a4caab2b36f10195182520", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          234
+        ], 
+        [
+          -47, 
+          307
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/welcome_title[text]Never Settle[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/weather_info", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        43, 
+        44, 
+        45, 
+        46
+      ], 
+      "size": "-661*77", 
+      "checked": false, 
+      "temp_id": 42, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]net.oneplus.launcher:id/weather_info", 
+      "is_password": false, 
+      "parent": 40, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "ffcd593ecba8701d6b74eb02d4f806d8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          307
+        ], 
+        [
+          -661, 
+          384
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]net.oneplus.launcher:id/weather_info[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/weather_icon", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-983*48", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/weather_icon", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "5e714640f3a9f2fbe172caf3fecdfe52", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          333
+        ], 
+        [
+          -983, 
+          381
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/weather_icon[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/weather_status", 
+      "text": "\u9635\u96e8,", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-873*53", 
+      "checked": false, 
+      "temp_id": 44, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/weather_status", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "2e6a92ba060508630f8adad653ab8d2d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          331
+        ], 
+        [
+          -873, 
+          384
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/weather_status[text]\u9635\u96e8,[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/weather_temperature", 
+      "text": "18\u2103,", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-763*53", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/weather_temperature", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "71925f3effede9e71762f6c15dd13dfb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          331
+        ], 
+        [
+          -763, 
+          384
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/weather_temperature[text]18\u2103,[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/weather_location", 
+      "text": "\u6d77\u6dc0", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-661*53", 
+      "checked": false, 
+      "temp_id": 46, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/weather_location", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "e4331afa727b172ac6e40b52d458a185", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          331
+        ], 
+        [
+          -661, 
+          384
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/weather_location[text]\u6d77\u6dc0[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/container", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        48
+      ], 
+      "size": "-23*132", 
+      "checked": false, 
+      "temp_id": 47, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/container", 
+      "is_password": false, 
+      "parent": 37, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "355b4a91011a210a8fc6ed4f383590b6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          456
+        ], 
+        [
+          -23, 
+          588
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/container[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        49
+      ], 
+      "size": "-23*132", 
+      "checked": false, 
+      "temp_id": 48, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 47, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "32ed98a0c3dc8f30ac7665174b8a483a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          456
+        ], 
+        [
+          -23, 
+          588
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-479*12", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None", 
+      "is_password": false, 
+      "parent": 48, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "ca88add186a6118b27b9227d49cb9eeb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          504
+        ], 
+        [
+          -479, 
+          516
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-683*420", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "2ab632c2c90955a8b949d5ca9da58420", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          -683, 
+          420
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        52, 
+        64
+      ], 
+      "size": "1056*1788", 
+      "checked": false, 
+      "temp_id": 51, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "6e8bea214ac67d33808c72cb1d1f396a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          12, 
+          72
+        ], 
+        [
+          1068, 
+          1860
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        53, 
+        57, 
+        58, 
+        59, 
+        60, 
+        61, 
+        62, 
+        63
+      ], 
+      "size": "1056*1788", 
+      "checked": false, 
+      "temp_id": 52, 
+      "selected": false, 
+      "child_count": 8, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 51, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "efbf168fd228931f4a4d54d3c3969247", 
+      "enabled": true, 
+      "bounds": [
+        [
+          12, 
+          72
+        ], 
+        [
+          1068, 
+          1860
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "Clock Widget", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        54
+      ], 
+      "size": "1056*714", 
+      "checked": false, 
+      "temp_id": 53, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.appwidget.AppWidgetHostView[resource_id]None", 
+      "is_password": false, 
+      "parent": 52, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.appwidget.AppWidgetHostView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "96dc098291e18bbced9636fa3a4659b9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          12, 
+          72
+        ], 
+        [
+          1068, 
+          786
+        ]
+      ], 
+      "signature": "[class]android.appwidget.AppWidgetHostView[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "23:26", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        55, 
+        56
+      ], 
+      "size": "1056*714", 
+      "checked": false, 
+      "temp_id": 54, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 53, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "1a80f282b683cbfeb4c5c3f2b83fa3de", 
+      "enabled": true, 
+      "bounds": [
+        [
+          12, 
+          72
+        ], 
+        [
+          1068, 
+          786
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "23:26", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "364*200", 
+      "checked": false, 
+      "temp_id": 55, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "ea24bbd72a6a1a57220adccc0ec91d7c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          72, 
+          304
+        ], 
+        [
+          436, 
+          504
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]23:26[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "9\u670824\u65e5, \u661f\u671f\u65e5", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "256*49", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "1ff46c0de9792fbb240966d76428358e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          96, 
+          504
+        ], 
+        [
+          352, 
+          553
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]9\u670824\u65e5, \u661f\u671f\u65e5[enabled,,]"
+    }, 
+    {
+      "content_description": "DroidBot", 
+      "resource_id": null, 
+      "text": "DroidBot", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "352*357", 
+      "checked": false, 
+      "temp_id": 57, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 52, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "47ca6ee0b503117ea8575bd758f8a4af", 
+      "enabled": true, 
+      "bounds": [
+        [
+          364, 
+          786
+        ], 
+        [
+          716, 
+          1143
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]DroidBot[enabled,,]"
+    }, 
+    {
+      "content_description": "TIM", 
+      "resource_id": null, 
+      "text": "TIM", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "352*357", 
+      "checked": false, 
+      "temp_id": 58, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 52, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "85a0e0fc2d7a0a4c284a7f5a9009169a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          12, 
+          1143
+        ], 
+        [
+          364, 
+          1500
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]TIM[enabled,,]"
+    }, 
+    {
+      "content_description": "\u5305\u540d\u67e5\u770b\u5668", 
+      "resource_id": null, 
+      "text": "\u5305\u540d\u67e5\u770b\u5668", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "352*357", 
+      "checked": false, 
+      "temp_id": 59, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 52, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "1dacbd96515e8c0977bcd91794466fb0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          364, 
+          1143
+        ], 
+        [
+          716, 
+          1500
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u5305\u540d\u67e5\u770b\u5668[enabled,,]"
+    }, 
+    {
+      "content_description": "\u84dd\u706f\u4e13\u4e1a\u7248", 
+      "resource_id": null, 
+      "text": "\u84dd\u706f\u4e13\u4e1a\u7248", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "352*357", 
+      "checked": false, 
+      "temp_id": 60, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 52, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "55571ba0f0f53048104634b1579bb2bb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          716, 
+          1143
+        ], 
+        [
+          1068, 
+          1500
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u84dd\u706f\u4e13\u4e1a\u7248[enabled,,]"
+    }, 
+    {
+      "content_description": "\u7535\u8bdd", 
+      "resource_id": null, 
+      "text": "\u7535\u8bdd", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "352*357", 
+      "checked": false, 
+      "temp_id": 61, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 52, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "39ebe0f8b7f9925cdb19bce31b7639bc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          12, 
+          1500
+        ], 
+        [
+          364, 
+          1857
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u7535\u8bdd[enabled,,]"
+    }, 
+    {
+      "content_description": "\u4fe1\u606f", 
+      "resource_id": null, 
+      "text": "\u4fe1\u606f", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "352*357", 
+      "checked": false, 
+      "temp_id": 62, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 52, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "9d7545c1f9b09c54a152f0fdba33a3f9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          364, 
+          1500
+        ], 
+        [
+          716, 
+          1857
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u4fe1\u606f[enabled,,]"
+    }, 
+    {
+      "content_description": "\u6d4f\u89c8\u5668", 
+      "resource_id": null, 
+      "text": "\u6d4f\u89c8\u5668", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "352*357", 
+      "checked": false, 
+      "temp_id": 63, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 52, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "1981154cbc5f7cb18d3eabf4ffe2e7d7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          716, 
+          1500
+        ], 
+        [
+          1068, 
+          1857
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u6d4f\u89c8\u5668[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "388*393", 
+      "checked": false, 
+      "temp_id": 64, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 51, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "2ab632c2c90955a8b949d5ca9da58420", 
+      "enabled": true, 
+      "bounds": [
+        [
+          94, 
+          1195
+        ], 
+        [
+          482, 
+          1588
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        66, 
+        82
+      ], 
+      "size": "-36*1788", 
+      "checked": false, 
+      "temp_id": 65, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "6e8bea214ac67d33808c72cb1d1f396a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1116, 
+          72
+        ], 
+        [
+          1080, 
+          1860
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        67, 
+        68, 
+        69, 
+        72, 
+        73, 
+        74, 
+        75, 
+        76, 
+        77, 
+        78, 
+        79, 
+        80, 
+        81
+      ], 
+      "size": "-36*1788", 
+      "checked": false, 
+      "temp_id": 66, 
+      "selected": false, 
+      "child_count": 13, 
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None", 
+      "is_password": false, 
+      "parent": 65, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.ViewGroup", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "70bd0c63159f312d88fb334d1c1254d0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1116, 
+          72
+        ], 
+        [
+          1080, 
+          1860
+        ]
+      ], 
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "Xposed Installer", 
+      "resource_id": null, 
+      "text": "Xposed Installer", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-36*357", 
+      "checked": false, 
+      "temp_id": 67, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "45049f94a7c9bfa9570edf96529e366c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1116, 
+          72
+        ], 
+        [
+          1080, 
+          429
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Xposed Installer[enabled,,]"
+    }, 
+    {
+      "content_description": "\u8d85\u7ea7\u6388\u6743", 
+      "resource_id": null, 
+      "text": "\u8d85\u7ea7\u6388\u6743", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-388*357", 
+      "checked": false, 
+      "temp_id": 68, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "cb692f237696b2a7fbab865223229277", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1468, 
+          72
+        ], 
+        [
+          1080, 
+          429
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u8d85\u7ea7\u6388\u6743[enabled,,]"
+    }, 
+    {
+      "content_description": "\u6587\u4ef6\u5939\uff1aSystem", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        70, 
+        71
+      ], 
+      "size": "-740*357", 
+      "checked": false, 
+      "temp_id": 69, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "a8475b98c1d38d0a250a1ff85fb8e4b5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1820, 
+          72
+        ], 
+        [
+          1080, 
+          429
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/folder_icon_name", 
+      "text": "System", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-749*116", 
+      "checked": false, 
+      "temp_id": 70, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/folder_icon_name", 
+      "is_password": false, 
+      "parent": 69, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "238791afa5361965acfd510856ba4d8f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1829, 
+          313
+        ], 
+        [
+          1080, 
+          429
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/folder_icon_name[text]System[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/preview_background", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-815*201", 
+      "checked": false, 
+      "temp_id": 71, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/preview_background", 
+      "is_password": false, 
+      "parent": 69, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "778f7488cdc30edfcc979081ce8f8087", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1895, 
+          118
+        ], 
+        [
+          1080, 
+          319
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/preview_background[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "\u6587\u4ef6\u7ba1\u7406", 
+      "resource_id": null, 
+      "text": "\u6587\u4ef6\u7ba1\u7406", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-36*357", 
+      "checked": false, 
+      "temp_id": 72, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "24f4dc72eb199494c61f9f0afca1a22c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1116, 
+          429
+        ], 
+        [
+          1080, 
+          786
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u6587\u4ef6\u7ba1\u7406[enabled,,]"
+    }, 
+    {
+      "content_description": "\u65f6\u949f", 
+      "resource_id": null, 
+      "text": "\u65f6\u949f", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-388*357", 
+      "checked": false, 
+      "temp_id": 73, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "5202dfbc712fe39359f70490d80867d2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1468, 
+          429
+        ], 
+        [
+          1080, 
+          786
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u65f6\u949f[enabled,,]"
+    }, 
+    {
+      "content_description": "\u8bbe\u7f6e", 
+      "resource_id": null, 
+      "text": "\u8bbe\u7f6e", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-740*357", 
+      "checked": false, 
+      "temp_id": 74, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "6fc896676f7a520faa791c1584f4a91a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1820, 
+          429
+        ], 
+        [
+          1080, 
+          786
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u8bbe\u7f6e[enabled,,]"
+    }, 
+    {
+      "content_description": "MobTaxi", 
+      "resource_id": null, 
+      "text": "MobTaxi", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-36*357", 
+      "checked": false, 
+      "temp_id": 75, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "66d1d50627e3898c409074eb108ddbb9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1116, 
+          786
+        ], 
+        [
+          1080, 
+          1143
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]MobTaxi[enabled,,]"
+    }, 
+    {
+      "content_description": "\u7167\u7247\u62fc\u8d34", 
+      "resource_id": null, 
+      "text": "\u7167\u7247\u62fc\u8d34", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-388*357", 
+      "checked": false, 
+      "temp_id": 76, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "c745b364e73baf77e80aa75924c4e672", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1468, 
+          786
+        ], 
+        [
+          1080, 
+          1143
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u7167\u7247\u62fc\u8d34[enabled,,]"
+    }, 
+    {
+      "content_description": "Home Cleaning Games", 
+      "resource_id": null, 
+      "text": "Home Cleaning Games", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-740*357", 
+      "checked": false, 
+      "temp_id": 77, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "6c1737d69ee7601684e6179fcbf27914", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1820, 
+          786
+        ], 
+        [
+          1080, 
+          1143
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Home Cleaning Games[enabled,,]"
+    }, 
+    {
+      "content_description": "Thief Tracker", 
+      "resource_id": null, 
+      "text": "Thief Tracker", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-36*357", 
+      "checked": false, 
+      "temp_id": 78, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "f6cadc7b5362447ee88e6e55d191dfe6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1116, 
+          1143
+        ], 
+        [
+          1080, 
+          1500
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Thief Tracker[enabled,,]"
+    }, 
+    {
+      "content_description": "\u5e94\u7528\u5b9d-\u514d\u8d39\u5e94\u7528", 
+      "resource_id": null, 
+      "text": "\u5e94\u7528\u5b9d-\u514d\u8d39\u5e94\u7528", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-388*357", 
+      "checked": false, 
+      "temp_id": 79, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "c6555bbe36da1f830ecfb0366f3bcd92", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1468, 
+          1143
+        ], 
+        [
+          1080, 
+          1500
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]\u5e94\u7528\u5b9d-\u514d\u8d39\u5e94\u7528[enabled,,]"
+    }, 
+    {
+      "content_description": "360\u624b\u673a\u52a9\u624b", 
+      "resource_id": null, 
+      "text": "360\u624b\u673a\u52a9\u624b", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-740*357", 
+      "checked": false, 
+      "temp_id": 80, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "3d95598c5be2c4ec3a6b7d9b50d72960", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1820, 
+          1143
+        ], 
+        [
+          1080, 
+          1500
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]360\u624b\u673a\u52a9\u624b[enabled,,]"
+    }, 
+    {
+      "content_description": "360\u624b\u673a\u536b\u58eb", 
+      "resource_id": null, 
+      "text": "360\u624b\u673a\u536b\u58eb", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-36*357", 
+      "checked": false, 
+      "temp_id": 81, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 66, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": true, 
+      "view_str": "f310248fa21cf4e39673e5703530f451", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1116, 
+          1500
+        ], 
+        [
+          1080, 
+          1857
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]360\u624b\u673a\u536b\u58eb[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "-36*393", 
+      "checked": false, 
+      "temp_id": 82, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 65, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "2ab632c2c90955a8b949d5ca9da58420", 
+      "enabled": true, 
+      "bounds": [
+        [
+          1116, 
+          72
+        ], 
+        [
+          1080, 
+          465
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/search_drop_target_bar", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        84
+      ], 
+      "size": "1080*204", 
+      "checked": false, 
+      "temp_id": 83, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/search_drop_target_bar", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "76ab9658ef4fdb85d7cb13765274909a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          276
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]net.oneplus.launcher:id/search_drop_target_bar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/drag_target_bar", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        85, 
+        87, 
+        89, 
+        91
+      ], 
+      "size": "1080*204", 
+      "checked": false, 
+      "temp_id": 84, 
+      "selected": false, 
+      "child_count": 4, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]net.oneplus.launcher:id/drag_target_bar", 
+      "is_password": false, 
+      "parent": 83, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "74be9578e0b6a87ec3608a507ac596ca", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          276
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]net.oneplus.launcher:id/drag_target_bar[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        86
+      ], 
+      "size": "270*204", 
+      "checked": false, 
+      "temp_id": 85, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 84, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "f49a431db5886cfb3559c11b2ec99962", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          270, 
+          276
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/delete_target_text", 
+      "text": "\u5220\u9664", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "227*204", 
+      "checked": false, 
+      "temp_id": 86, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/delete_target_text", 
+      "is_password": false, 
+      "parent": 85, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "12639cc0048bb538b4ae270ef92c3613", 
+      "enabled": true, 
+      "bounds": [
+        [
+          21, 
+          72
+        ], 
+        [
+          248, 
+          276
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/delete_target_text[text]\u5220\u9664[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        88
+      ], 
+      "size": "270*204", 
+      "checked": false, 
+      "temp_id": 87, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 84, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "2a055bf9ad26b79814e37d3f21e0286f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          270, 
+          72
+        ], 
+        [
+          540, 
+          276
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/edit_target_text", 
+      "text": "\u7f16\u8f91", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "227*204", 
+      "checked": false, 
+      "temp_id": 88, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/edit_target_text", 
+      "is_password": false, 
+      "parent": 87, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "0977c46c711e4c38016cebc4e093d49d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          291, 
+          72
+        ], 
+        [
+          518, 
+          276
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/edit_target_text[text]\u7f16\u8f91[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        90
+      ], 
+      "size": "270*204", 
+      "checked": false, 
+      "temp_id": 89, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 84, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "f079710f2555e42984940a2257680c1d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          72
+        ], 
+        [
+          810, 
+          276
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/info_target_text", 
+      "text": "\u5e94\u7528\u4fe1\u606f", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "270*204", 
+      "checked": false, 
+      "temp_id": 90, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/info_target_text", 
+      "is_password": false, 
+      "parent": 89, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "eb75409681ff573f9e7bb88403471452", 
+      "enabled": true, 
+      "bounds": [
+        [
+          540, 
+          72
+        ], 
+        [
+          810, 
+          276
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/info_target_text[text]\u5e94\u7528\u4fe1\u606f[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [
+        92
+      ], 
+      "size": "270*204", 
+      "checked": false, 
+      "temp_id": 91, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 84, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "24bae200ecc2905d7483603b29e265ae", 
+      "enabled": true, 
+      "bounds": [
+        [
+          810, 
+          72
+        ], 
+        [
+          1080, 
+          276
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/uninstall_target_text", 
+      "text": "\u5378\u8f7d", 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "251*204", 
+      "checked": false, 
+      "temp_id": 92, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/uninstall_target_text", 
+      "is_password": false, 
+      "parent": 91, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "0d8cb1a28884e7c6cc23cb4babb54e58", 
+      "enabled": true, 
+      "bounds": [
+        [
+          819, 
+          72
+        ], 
+        [
+          1070, 
+          276
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]net.oneplus.launcher:id/uninstall_target_text[text]\u5378\u8f7d[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/focus_indicator", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "156*156", 
+      "checked": false, 
+      "temp_id": 93, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]net.oneplus.launcher:id/focus_indicator", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "e8609c154652059c4c0f45ae4f2b5060", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          156, 
+          228
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]net.oneplus.launcher:id/focus_indicator[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": "\u4e3b\u5c4f\u5e55\uff1a\u7b2c1\u5c4f\uff0c\u51712\u5c4f, \u8bbe\u7f6e", 
+      "resource_id": "net.oneplus.launcher:id/page_indicator", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        95, 
+        98, 
+        101
+      ], 
+      "size": "108*36", 
+      "checked": false, 
+      "temp_id": 94, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]net.oneplus.launcher:id/page_indicator", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "95e98377181fbd735ab1d88369f6cc67", 
+      "enabled": true, 
+      "bounds": [
+        [
+          486, 
+          1872
+        ], 
+        [
+          594, 
+          1908
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]net.oneplus.launcher:id/page_indicator[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        96, 
+        97
+      ], 
+      "size": "36*36", 
+      "checked": false, 
+      "temp_id": 95, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 94, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "64f4f13ca0b66be645cbb904afc95917", 
+      "enabled": true, 
+      "bounds": [
+        [
+          486, 
+          1872
+        ], 
+        [
+          522, 
+          1908
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/active", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "18*18", 
+      "checked": false, 
+      "temp_id": 96, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/active", 
+      "is_password": false, 
+      "parent": 95, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "1a05bd5113370ccc36efc18e6cbc7c5b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          495, 
+          1881
+        ], 
+        [
+          513, 
+          1899
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/active[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/inactive", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "36*36", 
+      "checked": false, 
+      "temp_id": 97, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/inactive", 
+      "is_password": false, 
+      "parent": 95, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "205abe034c0d6ebdb9afe8e239cb7ef9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          486, 
+          1872
+        ], 
+        [
+          522, 
+          1908
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/inactive[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        99, 
+        100
+      ], 
+      "size": "36*36", 
+      "checked": false, 
+      "temp_id": 98, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 94, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "64f4f13ca0b66be645cbb904afc95917", 
+      "enabled": true, 
+      "bounds": [
+        [
+          522, 
+          1872
+        ], 
+        [
+          558, 
+          1908
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/active", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "36*36", 
+      "checked": false, 
+      "temp_id": 99, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/active", 
+      "is_password": false, 
+      "parent": 98, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "1a05bd5113370ccc36efc18e6cbc7c5b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          522, 
+          1872
+        ], 
+        [
+          558, 
+          1908
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/active[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/inactive", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "36*36", 
+      "checked": false, 
+      "temp_id": 100, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/inactive", 
+      "is_password": false, 
+      "parent": 98, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "205abe034c0d6ebdb9afe8e239cb7ef9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          522, 
+          1872
+        ], 
+        [
+          558, 
+          1908
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/inactive[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        102, 
+        103
+      ], 
+      "size": "36*36", 
+      "checked": false, 
+      "temp_id": 101, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 94, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.FrameLayout", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "64f4f13ca0b66be645cbb904afc95917", 
+      "enabled": true, 
+      "bounds": [
+        [
+          558, 
+          1872
+        ], 
+        [
+          594, 
+          1908
+        ]
+      ], 
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/active", 
+      "text": null, 
+      "visible": false, 
+      "checkable": false, 
+      "children": [], 
+      "size": "18*18", 
+      "checked": false, 
+      "temp_id": 102, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/active", 
+      "is_password": false, 
+      "parent": 101, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "1a05bd5113370ccc36efc18e6cbc7c5b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          567, 
+          1881
+        ], 
+        [
+          585, 
+          1899
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/active[text]None[enabled,,]"
+    }, 
+    {
+      "content_description": null, 
+      "resource_id": "net.oneplus.launcher:id/inactive", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "36*36", 
+      "checked": false, 
+      "temp_id": 103, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/inactive", 
+      "is_password": false, 
+      "parent": 101, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.ImageView", 
+      "scrollable": false, 
+      "package": "net.oneplus.launcher", 
+      "long_clickable": false, 
+      "view_str": "205abe034c0d6ebdb9afe8e239cb7ef9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          558, 
+          1872
+        ], 
+        [
+          594, 
+          1908
+        ]
+      ], 
+      "signature": "[class]android.widget.ImageView[resource_id]net.oneplus.launcher:id/inactive[text]None[enabled,,]"
+    }
+  ], 
+  "state_str_content_free": "b1de61edc90896d3e4c5ca54f7c5f1db", 
+  "activity_stack": [
+    "net.oneplus.launcher/.Launcher"
+  ], 
+  "background_services": [
+    "com.android.bluetooth/.hid.HidService", 
+    "com.android.engineeringmode/.nvbackup.NVBackupStatusService", 
+    "org.codeaurora.ims/.ImsService", 
+    "windvix.com.lantern/com.qq.e.comm.DownloadService", 
+    "com.android.contacts/com.oneplus.contacts.OPContactsPersistService", 
+    "com.qualcomm.location/.LocationService", 
+    "com.android.systemui/.keyguard.KeyguardService", 
+    "com.qualcomm.location/.izat.IzatService", 
+    "com.android.systemui/.ImageWallpaper", 
+    "com.oneplus.permissionutil/.MessengerService", 
+    "com.android.mms/.OPMmsPersistService", 
+    "com.tencent.tim/com.tencent.mobileqq.contactsync.syncadapter.SyncService", 
+    "com.qualcomm.qti.tetherservice/.TetherService", 
+    "com.oneplus.simcontacts/.autoimport.SimContactsService", 
+    "com.sohu.inputmethod.sogou/com.sogou.androidtool.support.SupportService", 
+    "com.dsi.ant.server/.AntService", 
+    "com.qualcomm.location/.izatserviceprovider.service.UnifiedLocationService", 
+    "com.oneplus.security/.SecureService", 
+    "com.android.browser/com.tencent.mtt.browser.push.service.PushRemoteService", 
+    "com.oneplus.opbugreport/.OPReportService", 
+    "windvix.com.lantern/com.awesome.android.sdk.service.AwClothEventService", 
+    "windvix.com.lantern/com.stub.stub02.Stub02", 
+    "io.github.ylimit.droidbotapp/.DroidBotIME", 
+    "com.android.bluetooth/.pbap.BluetoothPbapService", 
+    "net.oneplus.odm/.insight.OneplusAnalyticsJobService", 
+    "com.oneplus.opbackup/.service.BackupService", 
+    "org.codeaurora.bluetooth/.dun.BluetoothDunService", 
+    "com.oneplus.oplocationservice/.OPLocationService", 
+    "com.android.bluetooth/.a2dp.A2dpService", 
+    "com.qualcomm.qcrilmsgtunnel/.QcrilMsgTunnelService", 
+    "com.qti.service.colorservice/.ColorServiceApp", 
+    "com.amap.android.ams/.service.HwActivityService", 
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService", 
+    "com.android.browser/com.tencent.mtt.BrowserService", 
+    "com.android.systemui/.SystemUIService", 
+    "android/.hardware.location.GeofenceHardwareService", 
+    "com.amap.android.ams/.service.HwGeofenceService", 
+    "com.android.server.telecom/.oneplus.OPTelecomService", 
+    "com.qualcomm.location/.LBSSystemMonitorService", 
+    "com.baidu.input_yijia/com.baidu.input.switchguide.GuideService", 
+    "windvix.com.lantern/com.stub.stub05.Stub02", 
+    "net.oneplus.odm/.DeviceManagerService", 
+    "com.amap.android.ams/.geocode.GeocodeService", 
+    "com.svox.pico/.PicoService", 
+    "com.android.server.telecom/.components.BluetoothPhoneService", 
+    "com.qualcomm.location/.izatserviceprovider.service.NetworkLocationService", 
+    "com.qti.dpmserviceapp/.DpmServiceApp", 
+    "com.oneplus.security/.firewall.NetworkRestrictService", 
+    "com.oneplus.market/.service.DownloadService", 
+    "com.android.stk/.StkAppService", 
+    "com.android.server.telecom/.components.TelecomService", 
+    "com.android.bluetooth/.hfp.HeadsetService", 
+    "com.qti.qualcomm.datastatusnotification/.DataStatusNotificationService", 
+    "com.amap.android.ams/.network.NetworkLocationService", 
+    "com.android.smspush/.WapPushManager", 
+    "com.tencent.tim/com.tencent.mobileqq.msf.service.MsfService", 
+    "com.amap.android.ams/.service.HwFusedService", 
+    "com.oneplus.permissionutil/.ControlService", 
+    "com.android.bluetooth/.map.BluetoothMapService", 
+    "com.android.phone/.TelephonyDebugService", 
+    "se.dirac.acs/.AudioControlService", 
+    "com.sohu.inputmethod.sogou/com.sohu.inputmethod.settings.status.SogouStatusService", 
+    "com.android.bluetooth/.pan.PanService"
+  ], 
+  "state_str": "9d0b37e4f1aa2d5f98afaa9476b6809a", 
+  "tag": "2017-09-24_232624", 
+  "foreground_activity": "net.oneplus.launcher/.Launcher"
+}

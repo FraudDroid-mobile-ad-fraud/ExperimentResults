@@ -1,0 +1,48 @@
+{
+  "stop_state": "8a840ae503686f7f1d3098b52aedef4d", 
+  "event_str": "TouchEvent(view=81ca0c4135ac557f3d3a2b20c9b04304)", 
+  "tag": "2017-09-24_133202", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "Loading....", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "195*57", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.sink.apps.girl.voice.changer", 
+      "long_clickable": false, 
+      "view_str": "81ca0c4135ac557f3d3a2b20c9b04304", 
+      "enabled": true, 
+      "bounds": [
+        [
+          535, 
+          932
+        ], 
+        [
+          730, 
+          989
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]Loading....[enabled,,]"
+    }
+  }, 
+  "start_state": "d4e06ca55f7b4962075710aa63a0d746"
+}

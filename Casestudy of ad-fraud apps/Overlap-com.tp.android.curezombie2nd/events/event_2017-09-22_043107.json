@@ -1,0 +1,10 @@
+{
+  "stop_state": "c09f71ae21e3083f99f128d36b3cc59c", 
+  "event_str": "IntentEvent(intent='am start com.tp.android.curezombie2nd/com.tp.android.curezombie2nd.MaternityDoctor')", 
+  "tag": "2017-09-22_043107", 
+  "event": {
+    "intent": "am start com.tp.android.curezombie2nd/com.tp.android.curezombie2nd.MaternityDoctor", 
+    "event_type": "intent"
+  }, 
+  "start_state": "04c9d9702ba403a97530354a6d0bac77"
+}

@@ -1,0 +1,48 @@
+{
+  "stop_state": "cb1da228e582e6224140ededd9ea5c33", 
+  "event_str": "TouchEvent(view=68601425dc0871003f2f3249caba84c3)", 
+  "tag": "2017-09-24_232354", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.HomeCleaningGames:id/linearLayout4", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "450*1788", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.HomeCleaningGames:id/linearLayout4", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.LinearLayout", 
+      "scrollable": false, 
+      "package": "com.HomeCleaningGames", 
+      "long_clickable": false, 
+      "view_str": "68601425dc0871003f2f3249caba84c3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          315, 
+          132
+        ], 
+        [
+          765, 
+          1920
+        ]
+      ], 
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.HomeCleaningGames:id/linearLayout4[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "cb1da228e582e6224140ededd9ea5c33"
+}

@@ -1,0 +1,71 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        437d9a90 com.tp.android.curezombie2nd/.MaternityDoctor filter 437e89b8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      com.tp.android.curezombie2nd.MaternityDoctor:
+        437d9a90 com.tp.android.curezombie2nd/.MaternityDoctor filter 437e09d8
+          Action: "com.tp.android.curezombie2nd.MaternityDoctor"
+          Category: "android.intent.category.DEFAULT"
+      com.g6677.game.spread.TestMoreActivity:
+        43848120 com.tp.android.curezombie2nd/com.g6677.game.spread.TestMoreActivity filter 438a73a0
+          Action: "com.g6677.game.spread.TestMoreActivity"
+          Category: "android.intent.category.DEFAULT"
+      com.tp.android.curezombie2nd.Flurry:
+        43c12ca0 com.tp.android.curezombie2nd/com.flurry.android.CatalogActivity filter 43c24d08
+          Action: "com.tp.android.curezombie2nd.Flurry"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Schemes:
+      package:
+        434f4178 com.tp.android.curezombie2nd/com.zplay.android.sdk.zplayad.module.receiver.InstallCompleteReceiver filter 434f9fb8
+          Action: "android.intent.action.PACKAGE_ADDED"
+          Scheme: "package"
+
+  Non-Data Actions:
+      com.amazon.inapp.purchasing.NOTIFY:
+        437c6e68 com.tp.android.curezombie2nd/com.amazon.inapp.purchasing.ResponseReceiver filter 437c93b8
+          Action: "com.amazon.inapp.purchasing.NOTIFY"
+      android.intent.action.DOWNLOAD_COMPLETE:
+        43dab8f0 com.tp.android.curezombie2nd/com.zplay.android.sdk.zplayad.module.receiver.DownloadCompleteReceiver filter 43498810
+          Action: "android.intent.action.DOWNLOAD_COMPLETE"
+
+Key Set Manager:
+  [com.tp.android.curezombie2nd]
+      Signing KeySets: 28
+
+Packages:
+  Package [com.tp.android.curezombie2nd] (4348ac98):
+    userId=10152 gids=[3003, 1028, 1015]
+    pkg=Package{43720ad0 com.tp.android.curezombie2nd}
+    codePath=/data/app/com.tp.android.curezombie2nd-1.apk
+    resourcePath=/data/app/com.tp.android.curezombie2nd-1.apk
+    nativeLibraryPath=/data/app-lib/com.tp.android.curezombie2nd-1
+    versionCode=1 targetSdk=9
+    versionName=1.0.0
+    applicationInfo=ApplicationInfo{43710e90 com.tp.android.curezombie2nd}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/com.tp.android.curezombie2nd
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-09-22 04:22:28
+    firstInstallTime=2017-09-22 04:22:31
+    lastUpdateTime=2017-09-22 04:22:31
+    signatures=PackageSignatures{43bafc78 [438c94f0]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true blocked=false stopped=true notLaunched=true enabled=0
+    grantedPermissions:
+      android.permission.READ_EXTERNAL_STORAGE
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      android.permission.READ_PHONE_STATE
+      android.permission.CAMERA
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.INTERNET
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.WAKE_LOCK
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.DOWNLOAD_WITHOUT_NOTIFICATION

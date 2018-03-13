@@ -1,0 +1,48 @@
+{
+  "stop_state": "a318b516bdecf59ebb3f2b7f73a36f90", 
+  "event_str": "TouchEvent(view=606367b8172025881008adf193dd330c)", 
+  "tag": "2017-09-24_210746", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "event_type": "touch", 
+    "view": {
+      "content_description": "Downloads, Videos, Surveys, Raffles, News, Gossip, Games and more awesome content! Click to GET IN!", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "768*165", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.HouseBuildingGames", 
+      "long_clickable": false, 
+      "view_str": "606367b8172025881008adf193dd330c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          99, 
+          1518
+        ], 
+        [
+          867, 
+          1683
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "eb250bb8e3b29ac9d4e9a1e5490c9c23"
+}
