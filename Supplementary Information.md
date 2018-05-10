@@ -188,18 +188,3 @@ We would like to clarify that,  all the nine Ad fraud types are actually summari
  </tr>
  <![endif]>
 </table>
-
-## Precision/Recall by fraud type ##
-
-| Ad Fraud   Name        | True Positive(TP) | False Positive(FP) | True Negative(TN) | False Negative(FN) | Precision | Recall |
-| ---------------------- | ----------------- | ------------------ | ----------------- | ------------------ | --------- | ------ |
-| #1   Hidden            | 2                 | 2                  | 96                | 0                  | 50%       | 100%   |
-| #2 Size                | 3                 | 0                  | 97                | 0                  | 100%      | 100%   |
-| #3   Number            | 2                 | 0                  | 98                | 0                  | 100%      | 100%   |
-| #4   Overlap           | 1                 | 1                  | 97                | 1                  | 50%       | 50%    |
-| #5   Interaction       | 5                 | 0                  | 95                | 0                  | 100%      | 100%   |
-| #6   Drive-by download | 30                | 0                  | 67                | 3                  | 100%      | 90.91% |
-| #7   Outside           | 2                 | 0                  | 98                | 0                  | 100%      | 100%   |
-| #8   Frequent          | 2                 | 0                  | 98                | 0                  | 100%      | 100%   |
-| #9   Non-content       | 3                 | 0                  | 97                | 0                  | 100%      | 100%   |
-| Total                  | 46                | 3                  | 47                | 4                  | 93.88%    | 92%    |
